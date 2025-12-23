@@ -10,12 +10,18 @@ on:
     branches:
       - main
     paths:
-      - "ML-Project/**"
+      - "MLProject/**"
       - ".github/workflows/mlflow-training.yml"
 
   # Scheduled trigger (setiap hari jam 12:00 UTC)
   schedule:
     - cron: "0 12 * * *"
+
+# ===== PERMISSIONS =====
+permissions:
+  contents: write
+  actions: read
+  packages: write
 
 # ===== JOBS =====
 jobs:
@@ -146,38 +152,7 @@ jobs:
             git push origin main || echo "⚠️ Push skipped (might need force push)"
           fi
 
-      # Step 11: Create GitHub Release (OPTIONAL)
-      - name: Create Release
-        if: github.ref == 'refs/heads/main'
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          tag_name: model-${{ github.sha }}
-          release_name: Heart Disease Model Training ${{ github.run_number }}
-          body: |
-            ## 🤖 Automated Heart Disease Model Training
-
-            **Run ID**: `${{ steps.get_run_id.outputs.run_id }}`
-            **Timestamp**: ${{ github.event.head_commit.timestamp }}
-            **Commit**: ${{ github.sha }}
-
-            ### 📊 Training Metrics
-            Check the artifacts for detailed metrics and visualizations.
-
-            ### 📦 Artifacts Generated
-            - Trained Model (heart_disease_model.pkl)
-            - Confusion Matrix (heart_confusion_matrix.png)
-            - Feature Importance (heart_feature_importance.png)
-            - Classification Report (heart_classification_report.txt)
-            - MLflow Tracking Data (mlruns/)
-
-            ### 📥 Download Artifacts
-            Go to Actions → Select this workflow run → Download artifacts
-          draft: false
-          prerelease: false
-
-      # Step 12: Job Summary
+      # Step 11: Job Summary
       - name: Job Summary
         run: |
           echo "## ✅ MLflow Project Training Complete - ADVANCED" >> $GITHUB_STEP_SUMMARY
