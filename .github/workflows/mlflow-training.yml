@@ -70,6 +70,23 @@ jobs:
             echo "   Workflow will proceed but may fail during training"
           fi
 
+      # Step 5.5: Create MLflow Experiment
+      - name: Create MLflow Experiment
+        run: |
+          export MLFLOW_TRACKING_URI="file://$(pwd)/mlruns"
+          python - << 'EOF'
+          import mlflow
+
+          experiment_name = "HeartDisease_Classification_ML-Project"
+          exp = mlflow.get_experiment_by_name(experiment_name)
+
+          if exp is None:
+              exp_id = mlflow.create_experiment(experiment_name)
+              print(f"✅ Created experiment '{experiment_name}' with ID {exp_id}")
+          else:
+              print(f"ℹ️ Experiment '{experiment_name}' already exists with ID {exp.experiment_id}")
+          EOF
+
       # Step 6: Run MLflow Project
       - name: Run MLflow Project
         run: |
