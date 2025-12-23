@@ -91,7 +91,8 @@ jobs:
       - name: Run MLflow Project
         run: |
           export MLFLOW_TRACKING_URI="file://$(pwd)/mlruns"
-          mlflow run ML-Project
+          mlflow run ML-Project \
+            --experiment-name HeartDisease_Classification_ML-Project
           echo "✅ MLflow training executed"
 
       # Step 7: Get latest MLflow run ID
