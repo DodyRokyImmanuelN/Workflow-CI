@@ -21,11 +21,10 @@ warnings.filterwarnings('ignore')
 # =====================================================
 # CONFIGURATION
 # =====================================================
-EXPERIMENT_NAME = "HeartDisease_Classification_MLProject"
+
 
 # Set MLflow tracking URI from environment or default
 MLFLOW_TRACKING_URI = os.getenv('MLFLOW_TRACKING_URI', 'file://./mlruns')
-mlflow.set_tracking_uri(MLFLOW_TRACKING_URI)
 
 # =====================================================
 # PARSE PARAMETERS
@@ -107,73 +106,47 @@ def prepare_data(df, test_size, random_state):
 # TRAIN MODEL WITH MLFLOW
 # =====================================================
 def train_model(X_train, X_test, y_train, y_test, params):
-    """Train model with MLflow logging"""
     print("\n🤖 Training model with MLflow...")
     
-    # Set experiment
-    mlflow.set_experiment(EXPERIMENT_NAME)
-    
-    # Enable autolog
+    # mlflow run SUDAH membuat run → JANGAN start run lagi
     mlflow.sklearn.autolog()
-    
-    # Start MLflow run
-    with mlflow.start_run(run_name="MLProject_HeartDisease_Training"):
-        
-        # Model parameters
-        model_params = {
-            'n_estimators': params['n_estimators'],
-            'max_depth': params['max_depth'],
-            'min_samples_split': params['min_samples_split'],
-            'random_state': params['random_state'],
-            'n_jobs': -1
-        }
-        
-        print(f"📋 Model parameters: {model_params}")
-        
-        # Train
-        print("⏳ Training RandomForest...")
-        model = RandomForestClassifier(**model_params)
-        model.fit(X_train, y_train)
-        
-        # Predictions
-        y_pred = model.predict(X_test)
-        y_pred_proba = model.predict_proba(X_test)[:, 1]
-        
-        # Calculate metrics
-        accuracy = accuracy_score(y_test, y_pred)
-        precision = precision_score(y_test, y_pred)
-        recall = recall_score(y_test, y_pred)
-        f1 = f1_score(y_test, y_pred)
-        roc_auc = roc_auc_score(y_test, y_pred_proba)
-        
-        print(f"\n{'='*60}")
-        print(f"📊 MODEL PERFORMANCE")
-        print(f"{'='*60}")
-        print(f"   Accuracy  : {accuracy:.4f}")
-        print(f"   Precision : {precision:.4f}")
-        print(f"   Recall    : {recall:.4f}")
-        print(f"   F1-Score  : {f1:.4f}")
-        print(f"   ROC-AUC   : {roc_auc:.4f}")
-        print(f"{'='*60}")
-        
-        # Get run ID
-        run_id = mlflow.active_run().info.run_id
-        
-        # Save run ID to file for later use (e.g., Docker build)
-        with open('latest_run_id.txt', 'w') as f:
-            f.write(run_id)
-        
-        print(f"\n🔗 MLflow Run ID: {run_id}")
-        print(f"📄 Run ID saved to: latest_run_id.txt")
-        
-        return model, y_pred, y_test, X_test, {
-            'run_id': run_id,
-            'accuracy': accuracy,
-            'precision': precision,
-            'recall': recall,
-            'f1': f1,
-            'roc_auc': roc_auc
-        }
+
+    # Model parameters
+    model_params = {
+        'n_estimators': params['n_estimators'],
+        'max_depth': params['max_depth'],
+        'min_samples_split': params['min_samples_split'],
+        'random_state': params['random_state'],
+        'n_jobs': -1
+    }
+
+    print(f"📋 Model parameters: {model_params}")
+
+    model = RandomForestClassifier(**model_params)
+    model.fit(X_train, y_train)
+
+    y_pred = model.predict(X_test)
+    y_pred_proba = model.predict_proba(X_test)[:, 1]
+
+    accuracy = accuracy_score(y_test, y_pred)
+    precision = precision_score(y_test, y_pred)
+    recall = recall_score(y_test, y_pred)
+    f1 = f1_score(y_test, y_pred)
+    roc_auc = roc_auc_score(y_test, y_pred_proba)
+
+    run_id = mlflow.active_run().info.run_id
+
+    with open('latest_run_id.txt', 'w') as f:
+        f.write(run_id)
+
+    return model, y_pred, y_test, X_test, {
+        'run_id': run_id,
+        'accuracy': accuracy,
+        'precision': precision,
+        'recall': recall,
+        'f1': f1,
+        'roc_auc': roc_auc
+    }
 
 # =====================================================
 # SAVE VISUALIZATIONS
