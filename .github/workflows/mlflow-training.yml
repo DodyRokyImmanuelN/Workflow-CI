@@ -10,7 +10,7 @@ on:
     branches:
       - main
     paths:
-      - "MLProject/**"
+      - "ML-Project/**"
       - ".github/workflows/mlflow-training.yml"
 
   # Scheduled trigger (setiap hari jam 12:00 UTC)
