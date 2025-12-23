@@ -1,4 +1,4 @@
-name: MLflow Project Training - Heart Disease (z
+name: MLflow Project Training - Heart Disease
 
 # ===== TRIGGER =====
 on:
@@ -10,7 +10,7 @@ on:
     branches:
       - main
     paths:
-      - "ML-Project/**"
+      - "MLProject/**"
       - ".github/workflows/mlflow-training.yml"
 
   # Scheduled trigger (setiap hari jam 12:00 UTC)
@@ -71,10 +71,11 @@ jobs:
           fi
 
       # Step 6: Run MLflow Project
-      - name: Run MLflow Project
+      - name: Run MLflow training
         run: |
-          export MLFLOW_TRACKING_URI="file://$(pwd)/mlruns"
-          mlflow run ML-Project
+          cd ML-Project
+          export MLFLOW_TRACKING_URI="file://$(pwd)/../mlruns"
+          python modelling.py
           echo "✅ MLflow training executed"
 
       # Step 7: Get latest MLflow run ID
