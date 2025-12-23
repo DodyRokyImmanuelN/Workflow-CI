@@ -41,7 +41,7 @@ entry_points:
         description: "Minimum samples required to split a node"
 
     command: >
-      python heart_disease_mlproject.py
+      python modelling.py
       --data_path {data_path}
       --model_type {model_type}
       --test_size {test_size}
