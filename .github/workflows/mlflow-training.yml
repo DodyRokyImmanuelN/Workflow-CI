@@ -49,16 +49,16 @@ jobs:
           mkdir -p artifacts
           echo "✅ Directories created"
 
-      # Step 5: Prepare dataset for MLProject
+      # Step 5: Prepare dataset for ML-Project
       - name: Prepare dataset
         run: |
-          # Copy preprocessed dataset to MLProject folder
+          # Copy preprocessed dataset to ML-Project folder
           if [ -f "preprocessing/heart_preprocessing.csv" ]; then
-            cp preprocessing/heart_preprocessing.csv MLProject/
-            echo "✅ Dataset copied to MLProject/"
+            cp preprocessing/heart_preprocessing.csv ML-Project/
+            echo "✅ Dataset copied to ML-Project/"
           elif [ -f "heart_preprocessing.csv" ]; then
-            cp heart_preprocessing.csv MLProject/
-            echo "✅ Dataset copied to MLProject/"
+            cp heart_preprocessing.csv ML-Project/
+            echo "✅ Dataset copied to ML-Project/"
           else
             echo "⚠️ Warning: Preprocessed dataset not found"
             echo "   Workflow will proceed but may fail during training"
@@ -67,7 +67,7 @@ jobs:
       # Step 6: Run MLflow Project
       - name: Run MLflow training
         run: |
-          cd MLProject
+          cd ML-Project
           export MLFLOW_TRACKING_URI="file://$(pwd)/../mlruns"
           python heart_disease_mlproject.py
           echo "✅ MLflow training executed"
@@ -77,8 +77,8 @@ jobs:
         id: get_run_id
         run: |
           # Check if latest_run_id.txt exists (created by heart_disease_mlproject.py)
-          if [ -f "MLProject/latest_run_id.txt" ]; then
-            RUN_ID=$(cat MLProject/latest_run_id.txt)
+          if [ -f "ML-Project/latest_run_id.txt" ]; then
+            RUN_ID=$(cat ML-Project/latest_run_id.txt)
             echo "run_id=$RUN_ID" >> $GITHUB_OUTPUT
             echo "✅ Run ID from file: $RUN_ID"
           else
@@ -87,7 +87,7 @@ jobs:
             RUN_ID=$(python -c "
           import mlflow
           client = mlflow.tracking.MlflowClient()
-          experiment = client.get_experiment_by_name('HeartDisease_Classification_MLProject')
+          experiment = client.get_experiment_by_name('HeartDisease_Classification_ML-Project')
           if experiment is None:
               raise Exception('Experiment not found')
           runs = client.search_runs(experiment.experiment_id, order_by=['start_time DESC'], max_results=1)
@@ -110,10 +110,10 @@ jobs:
             echo "✅ MLflow runs copied"
           fi
 
-          # Copy MLProject artifacts
-          if [ -d "MLProject/artifacts" ]; then
-            cp -r MLProject/artifacts/* artifacts/ 2>/dev/null || true
-            echo "✅ MLProject artifacts copied"
+          # Copy ML-Project artifacts
+          if [ -d "ML-Project/artifacts" ]; then
+            cp -r ML-Project/artifacts/* artifacts/ 2>/dev/null || true
+            echo "✅ ML-Project artifacts copied"
           fi
 
           # List all artifacts
