@@ -1,7 +1,5 @@
 name: Heart-Disease-Classification
 
-conda_env: conda.yaml
-
 entry_points:
   main:
     command: python heart_disease_mlproject.py
