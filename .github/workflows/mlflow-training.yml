@@ -74,7 +74,8 @@ jobs:
       - name: Run MLflow Project (CI Retraining)
         run: |
           export MLFLOW_TRACKING_URI="file://$(pwd)/mlruns"
-          mlflow run ML-Project \
+          export MLFLOW_EXPERIMENT_NAME="Heart-Disease-Classification"
+            mlflow run ML-Project \
             --env-manager=local \
             -P data_path=heart_preprocessing.csv \
             -P n_estimators=200 \
