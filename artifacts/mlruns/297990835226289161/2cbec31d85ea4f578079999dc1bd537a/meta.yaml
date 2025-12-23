@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/ML-Project/../mlruns/297990835226289161/2cbec31d85ea4f578079999dc1bd537a/artifacts
+end_time: 1766475037505
+entry_point_name: ''
+experiment_id: '297990835226289161'
+lifecycle_stage: active
+run_id: 2cbec31d85ea4f578079999dc1bd537a
+run_name: MLProject_HeartDisease_Training
+run_uuid: 2cbec31d85ea4f578079999dc1bd537a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766475034555
+status: 3
+tags: []
+user_id: runner

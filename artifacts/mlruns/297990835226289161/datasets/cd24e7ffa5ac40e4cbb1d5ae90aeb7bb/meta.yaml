@@ -1,0 +1,12 @@
+digest: 7ca1a6dc
+name: dataset
+profile: '{"num_rows": 61, "num_elements": 793}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "age"}, {"type": "double",
+  "name": "sex"}, {"type": "double", "name": "cp"}, {"type": "double", "name": "trestbps"},
+  {"type": "double", "name": "chol"}, {"type": "double", "name": "fbs"}, {"type":
+  "double", "name": "restecg"}, {"type": "double", "name": "thalach"}, {"type": "double",
+  "name": "exang"}, {"type": "double", "name": "oldpeak"}, {"type": "double", "name":
+  "slope"}, {"type": "double", "name": "ca"}, {"type": "double", "name": "thal"}]}'
+source: '{"tags": {"mlflow.user": "runner", "mlflow.source.name": "modelling.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
