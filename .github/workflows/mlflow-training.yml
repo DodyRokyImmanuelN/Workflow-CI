@@ -71,12 +71,11 @@ jobs:
           fi
 
       # Step 6: Run MLflow Project
-      - name: Run MLflow training
+      - name: Run MLflow Project
         run: |
-          cd ML-Project
-          export MLFLOW_TRACKING_URI="file://$(pwd)/../mlruns"
-          python modelling.py
-          echo "✅ MLflow training executed"
+          export MLFLOW_TRACKING_URI="file://$(pwd)/mlruns"
+          mlflow run ML-Project
+          echo "✅ MLflow Project executed"
 
       # Step 7: Get latest MLflow run ID
       - name: Get latest MLflow run ID
