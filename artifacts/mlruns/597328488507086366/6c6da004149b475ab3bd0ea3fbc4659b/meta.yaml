@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/597328488507086366/6c6da004149b475ab3bd0ea3fbc4659b/artifacts
+end_time: 1766494697624
+entry_point_name: ''
+experiment_id: '597328488507086366'
+lifecycle_stage: active
+run_id: 6c6da004149b475ab3bd0ea3fbc4659b
+run_name: rumbling-shoat-747
+run_uuid: 6c6da004149b475ab3bd0ea3fbc4659b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766494692118
+status: 3
+tags: []
+user_id: runner
