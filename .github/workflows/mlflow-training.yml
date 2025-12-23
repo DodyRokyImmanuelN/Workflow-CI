@@ -69,14 +69,14 @@ jobs:
         run: |
           cd ML-Project
           export MLFLOW_TRACKING_URI="file://$(pwd)/../mlruns"
-          python heart_disease_mlproject.py
+          python modelling.py
           echo "✅ MLflow training executed"
 
       # Step 7: Get latest MLflow run ID
       - name: Get latest MLflow run ID
         id: get_run_id
         run: |
-          # Check if latest_run_id.txt exists (created by heart_disease_mlproject.py)
+          # Check if latest_run_id.txt exists (created by modelling.py)
           if [ -f "ML-Project/latest_run_id.txt" ]; then
             RUN_ID=$(cat ML-Project/latest_run_id.txt)
             echo "run_id=$RUN_ID" >> $GITHUB_OUTPUT
