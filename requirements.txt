@@ -1,0 +1,23 @@
+# Core Data Science Libraries
+pandas==2.0.3
+numpy==1.24.3
+scikit-learn==1.3.0
+joblib==1.3.2
+
+# Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# MLflow & Experiment Tracking
+mlflow==2.8.0
+
+# Monitoring & Logging (Kriteria 4)
+prometheus-client==0.17.1
+psutil==5.9.5
+requests==2.31.0
+
+# Additional Dependencies (if needed)
+# Flask==2.3.3              # For API serving
+# gunicorn==21.2.0          # Production WSGI server
+# python-dotenv==1.0.0      # Environment variables
+# pyyaml==6.0.1             # YAML config files
