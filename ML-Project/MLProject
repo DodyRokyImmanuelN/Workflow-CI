@@ -1,14 +1,42 @@
-name: HeartDisease_Classification_MLProject
+name: Heart-Disease-Classification
 
 conda_env: conda.yaml
 
 entry_points:
   main:
+    command: python heart_disease_mlproject.py
     parameters:
-      data_path: { type: string, default: "heart_preprocessing.csv" }
-      test_size: { type: float, default: 0.2 }
-      random_state: { type: int, default: 42 }
-      n_estimators: { type: int, default: 100 }
-      max_depth: { type: int, default: 10 }
-      min_samples_split: { type: int, default: 5 }
-    command: "python modelling.py"
+      data_path:
+        description: "Path to preprocessed heart disease dataset"
+        type: string
+        default: "heart_preprocessing.csv"
+
+      model_type:
+        description: "Type of model (RandomForest)"
+        type: string
+        default: "RandomForest"
+
+      test_size:
+        description: "Test set size (0.0-1.0)"
+        type: float
+        default: 0.2
+
+      random_state:
+        description: "Random state for reproducibility"
+        type: int
+        default: 42
+
+      n_estimators:
+        description: "Number of trees in RandomForest"
+        type: int
+        default: 100
+
+      max_depth:
+        description: "Maximum depth of trees"
+        type: int
+        default: 10
+
+      min_samples_split:
+        description: "Minimum samples required to split a node"
+        type: int
+        default: 5
