@@ -71,12 +71,14 @@ jobs:
           fi
 
       # Step 6: Run MLflow Project
-      - name: Run MLflow training
+      - name: Run MLflow Project (CI Retraining)
         run: |
-          cd ML-Project
-          export MLFLOW_TRACKING_URI="file://$(pwd)/../mlruns"
-          python modelling.py
-          echo "✅ MLflow training executed"
+          export MLFLOW_TRACKING_URI="file://$(pwd)/mlruns"
+          mlflow run ML-Project \
+            --env-manager=local \
+            -P data_path=heart_preprocessing.csv \
+            -P n_estimators=200 \
+            -P max_depth=15
 
       # Step 7: Get latest MLflow run ID
       - name: Get latest MLflow run ID
