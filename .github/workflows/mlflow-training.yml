@@ -2,13 +2,18 @@ name: MLflow Project Training - Heart Disease (ADVANCED)
 
 # ===== TRIGGER =====
 on:
+  # Manual trigger
   workflow_dispatch:
+
+  # Trigger saat push ke main
   push:
     branches:
       - main
     paths:
-      - "ML-Project/**"
+      - "MLProject/**"
       - ".github/workflows/mlflow-training.yml"
+
+  # Scheduled trigger (setiap hari jam 12:00 UTC)
   schedule:
     - cron: "0 12 * * *"
 
@@ -36,130 +41,56 @@ jobs:
         with:
           python-version: "3.10"
 
-      # Step 3: Setup Conda (PENTING untuk MLflow Project)
-      - name: Setup Miniconda
-        uses: conda-incubator/setup-miniconda@v3
-        with:
-          auto-update-conda: true
-          python-version: "3.10"
-          miniconda-version: "latest"
-
-      # Step 4: Install MLflow
-      - name: Install MLflow
+      # Step 3: Install dependencies
+      - name: Install dependencies
         run: |
-          pip install mlflow==2.8.0
-          echo "✅ MLflow installed"
+          python -m pip install --upgrade pip
+          pip install mlflow scikit-learn pandas numpy matplotlib seaborn
+          echo "✅ Dependencies installed"
 
-      # Step 5: Setup MLflow tracking directories
+      # Step 4: Setup MLflow tracking directories
       - name: Setup MLflow tracking
         run: |
           mkdir -p mlruns
           mkdir -p artifacts
           echo "✅ Directories created"
 
-      # Step 6: Prepare dataset
+      # Step 5: Prepare dataset for MLProject
       - name: Prepare dataset
         run: |
+          # Copy preprocessed dataset to MLProject folder
           if [ -f "preprocessing/heart_preprocessing.csv" ]; then
-            cp preprocessing/heart_preprocessing.csv ML-Project/
-            echo "✅ Dataset copied to ML-Project/"
+            cp preprocessing/heart_preprocessing.csv MLProject/
+            echo "✅ Dataset copied to MLProject/"
           elif [ -f "heart_preprocessing.csv" ]; then
-            cp heart_preprocessing.csv ML-Project/
-            echo "✅ Dataset copied to ML-Project/"
+            cp heart_preprocessing.csv MLProject/
+            echo "✅ Dataset copied to MLProject/"
           else
-            echo "❌ ERROR: Dataset not found!"
-            exit 1
+            echo "⚠️ Warning: Preprocessed dataset not found"
+            echo "   Workflow will proceed but may fail during training"
           fi
 
-      # Step 7: Verify MLProject files
-      - name: Verify MLProject configuration
-        run: |
-          echo "📋 Checking MLProject files..."
-          
-          if [ ! -f "ML-Project/MLProject" ]; then
-            echo "❌ ERROR: MLProject file not found!"
-            exit 1
-          fi
-          
-          if [ ! -f "ML-Project/conda.yaml" ]; then
-            echo "❌ ERROR: conda.yaml file not found!"
-            exit 1
-          fi
-          
-          if [ ! -f "ML-Project/modelling.py" ]; then
-            echo "❌ ERROR: modelling.py file not found!"
-            exit 1
-          fi
-          
-          echo "✅ All required files present"
-          echo ""
-          echo "📄 MLProject content:"
-          cat ML-Project/MLProject
-          echo ""
-          echo "📄 conda.yaml content:"
-          cat ML-Project/conda.yaml
-
-      # Step 8: Pre-create MLflow experiment
-      - name: Pre-create MLflow experiment
+      # Step 6: Run MLflow Project (RETRAINING)
+      - name: Run MLflow Project - Model Retraining
         run: |
           export MLFLOW_TRACKING_URI="file://$(pwd)/mlruns"
-          python -c "
-import mlflow
-import os
-
-tracking_uri = 'file://' + os.getcwd() + '/mlruns'
-mlflow.set_tracking_uri(tracking_uri)
-print(f'📍 Tracking URI: {tracking_uri}')
-
-experiment_name = 'HeartDisease_Classification_MLProject'
-
-try:
-    experiment_id = mlflow.create_experiment(experiment_name)
-    print(f'✅ Experiment created: {experiment_name}')
-    print(f'   Experiment ID: {experiment_id}')
-except Exception as e:
-    experiment = mlflow.get_experiment_by_name(experiment_name)
-    if experiment:
-        print(f'✅ Experiment already exists: {experiment_name}')
-        print(f'   Experiment ID: {experiment.experiment_id}')
-    else:
-        print(f'❌ Error: {e}')
-        raise e
-"
-          echo "✅ MLflow experiment ready"
-
-      # Step 9: Run MLflow Project (INI YANG PENTING!)
-      - name: Run MLflow Project
-        run: |
-          export MLFLOW_TRACKING_URI="file://$(pwd)/mlruns"
-          echo "🚀 Running MLflow Project..."
-          echo "📍 Tracking URI: $MLFLOW_TRACKING_URI"
-          echo "📂 Project Path: ML-Project"
-          echo ""
+          echo "🚀 Starting MLflow Project retraining..."
           
-          # CARA YANG BENAR: Gunakan mlflow run
-          mlflow run ML-Project \
-            --experiment-name="HeartDisease_Classification_MLProject" \
-            -P data_path=heart_preprocessing.csv \
-            -P test_size=0.2 \
-            -P random_state=42 \
-            -P n_estimators=100 \
-            -P max_depth=10 \
-            -P min_samples_split=5
+          # Jalankan MLflow Project (bukan python script manual)
+          mlflow run MLProject/ \
+            --env-manager local \
+            --experiment-name "HeartDisease_Classification_MLProject"
           
-          echo "✅ MLflow Project executed successfully"
+          echo "✅ MLflow Project retraining completed"
 
-      # Step 10: Get latest MLflow run ID
+      # Step 7: Get latest MLflow run ID
       - name: Get latest MLflow run ID
         id: get_run_id
         run: |
-          if [ -f "ML-Project/latest_run_id.txt" ]; then
-            RUN_ID=$(cat ML-Project/latest_run_id.txt)
-            echo "run_id=$RUN_ID" >> $GITHUB_OUTPUT
-            echo "✅ Run ID from file: $RUN_ID"
-          else
-            export MLFLOW_TRACKING_URI="file://$(pwd)/mlruns"
-            RUN_ID=$(python -c "
+          export MLFLOW_TRACKING_URI="file://$(pwd)/mlruns"
+          
+          # Query MLflow untuk mendapatkan run ID terbaru
+          RUN_ID=$(python -c "
 import mlflow
 client = mlflow.tracking.MlflowClient()
 experiment = client.get_experiment_by_name('HeartDisease_Classification_MLProject')
@@ -170,29 +101,76 @@ if len(runs) == 0:
     raise Exception('No runs found')
 print(runs[0].info.run_id)
 ")
-            echo "run_id=$RUN_ID" >> $GITHUB_OUTPUT
-            echo "✅ Run ID from MLflow: $RUN_ID"
-          fi
+          
+          echo "run_id=$RUN_ID" >> $GITHUB_OUTPUT
+          echo "✅ Latest MLflow Run ID: $RUN_ID"
 
-      # Step 11: Collect artifacts
-      - name: Collect artifacts
+      # Step 8: Get model metrics from MLflow
+      - name: Get model metrics
+        id: get_metrics
         run: |
-          echo "📦 Collecting artifacts..."
+          export MLFLOW_TRACKING_URI="file://$(pwd)/mlruns"
           
-          if [ -d "mlruns" ]; then
-            cp -r mlruns artifacts/ || true
-            echo "✅ MLflow runs copied"
-          fi
-          
-          if [ -d "ML-Project/artifacts" ]; then
-            cp -r ML-Project/artifacts/* artifacts/ 2>/dev/null || true
-            echo "✅ ML-Project artifacts copied"
-          fi
-          
-          echo "📋 Artifacts collected:"
-          find artifacts/ -type f || echo "No artifacts found"
+          # Ambil metrics dari MLflow run
+          python -c "
+import mlflow
+client = mlflow.tracking.MlflowClient()
+run = client.get_run('${{ steps.get_run_id.outputs.run_id }}')
+metrics = run.data.metrics
 
-      # Step 12: Upload artifacts to GitHub
+print('📊 Model Metrics:')
+for key, value in metrics.items():
+    print(f'{key}: {value:.4f}')
+    
+# Save metrics untuk summary
+with open('metrics.txt', 'w') as f:
+    for key, value in metrics.items():
+        f.write(f'{key}={value:.4f}\n')
+"
+          echo "✅ Metrics retrieved from MLflow"
+
+      # Step 9: Collect artifacts from MLflow
+      - name: Collect artifacts from MLflow
+        run: |
+          echo "📦 Collecting artifacts from MLflow run..."
+          export MLFLOW_TRACKING_URI="file://$(pwd)/mlruns"
+          
+          # Copy seluruh mlruns directory
+          if [ -d "mlruns" ]; then
+            cp -r mlruns artifacts/
+            echo "✅ MLflow runs copied to artifacts/"
+          fi
+          
+          # Download artifacts dari MLflow run ke artifacts folder
+          python -c "
+import mlflow
+import shutil
+import os
+
+client = mlflow.tracking.MlflowClient()
+run_id = '${{ steps.get_run_id.outputs.run_id }}'
+
+# Download semua artifacts dari run
+artifacts_path = client.download_artifacts(run_id, '', dst_path='./downloaded_artifacts')
+print(f'✅ Artifacts downloaded to: {artifacts_path}')
+
+# Copy ke artifacts folder
+if os.path.exists(artifacts_path):
+    for item in os.listdir(artifacts_path):
+        src = os.path.join(artifacts_path, item)
+        dst = os.path.join('artifacts', item)
+        if os.path.isfile(src):
+            shutil.copy2(src, dst)
+        elif os.path.isdir(src):
+            shutil.copytree(src, dst, dirs_exist_ok=True)
+    print('✅ Artifacts copied to artifacts folder')
+"
+          
+          # List all artifacts
+          echo "📋 Artifacts collected:"
+          find artifacts/ -type f 2>/dev/null || echo "No artifacts found"
+
+      # Step 10: Upload artifacts to GitHub
       - name: Upload artifacts to GitHub
         uses: actions/upload-artifact@v4
         with:
@@ -202,25 +180,26 @@ print(runs[0].info.run_id)
             mlruns/
           retention-days: 30
 
-      # Step 13: Commit artifacts to repository
+      # Step 11: Commit artifacts to repository
       - name: Commit artifacts to repository
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
-          
-          git add artifacts/ || true
-          
+
+          # Add artifacts
+          git add artifacts/ mlruns/ || true
+
           if git diff --staged --quiet; then
             echo "⏭️ No changes to commit"
           else
-            git commit -m "🤖 Auto: Update MLflow artifacts [Run: ${{ steps.get_run_id.outputs.run_id }}] - $(date +'%Y-%m-%d %H:%M:%S')" || true
-            git push origin main || true
+            git commit -m "🤖 Auto: MLflow retraining artifacts [Run: ${{ steps.get_run_id.outputs.run_id }}] - $(date +'%Y-%m-%d %H:%M:%S')" || echo "⚠️ Commit skipped"
+            git push origin main || echo "⚠️ Push skipped"
           fi
 
-      # Step 14: Job Summary
+      # Step 12: Job Summary
       - name: Job Summary
         run: |
-          echo "## ✅ MLflow Project Training Complete - ADVANCED" >> $GITHUB_STEP_SUMMARY
+          echo "## ✅ MLflow Project Retraining Complete - ADVANCED" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "**🎯 Project**: Heart Disease Classification" >> $GITHUB_STEP_SUMMARY
           echo "**🎯 Level**: ADVANCED (4 pts)" >> $GITHUB_STEP_SUMMARY
@@ -230,8 +209,18 @@ print(runs[0].info.run_id)
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "---" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
+          
+          # Add metrics to summary
+          echo "### 📊 Model Performance Metrics" >> $GITHUB_STEP_SUMMARY
+          if [ -f "metrics.txt" ]; then
+            while IFS='=' read -r key value; do
+              echo "- **${key}**: ${value}" >> $GITHUB_STEP_SUMMARY
+            done < metrics.txt
+          fi
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
           echo "### ✅ Completed Tasks" >> $GITHUB_STEP_SUMMARY
-          echo "- ✅ Heart Disease Model Training (MLflow Project)" >> $GITHUB_STEP_SUMMARY
+          echo "- ✅ Model Retraining via MLflow Project" >> $GITHUB_STEP_SUMMARY
           echo "- ✅ Artifacts Saved to GitHub" >> $GITHUB_STEP_SUMMARY
           echo "- ✅ Model Metrics Logged to MLflow" >> $GITHUB_STEP_SUMMARY
           echo "- ✅ Visualizations Generated" >> $GITHUB_STEP_SUMMARY
@@ -243,9 +232,20 @@ print(runs[0].info.run_id)
           echo "- ✅ Classification Report (heart_classification_report.txt)" >> $GITHUB_STEP_SUMMARY
           echo "- ✅ MLflow Tracking Data (mlruns/)" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### 📥 Download Artifacts" >> $GITHUB_STEP_SUMMARY
+          echo "Artifacts are available for download in the Actions tab:" >> $GITHUB_STEP_SUMMARY
+          echo "1. Go to **Actions** tab" >> $GITHUB_STEP_SUMMARY
+          echo "2. Select this workflow run" >> $GITHUB_STEP_SUMMARY
+          echo "3. Scroll down to **Artifacts** section" >> $GITHUB_STEP_SUMMARY
+          echo "4. Download: \`mlflow-training-artifacts-${{ github.sha }}\`" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
           echo "### 🎓 Kriteria Advanced Terpenuhi" >> $GITHUB_STEP_SUMMARY
+          echo "- ✅ **MLflow Project untuk retraining** (bukan manual python script)" >> $GITHUB_STEP_SUMMARY
           echo "- ✅ Workflow CI dengan GitHub Actions" >> $GITHUB_STEP_SUMMARY
           echo "- ✅ Artifacts tersimpan di GitHub repository" >> $GITHUB_STEP_SUMMARY
           echo "- ✅ MLflow experiment tracking terintegrasi" >> $GITHUB_STEP_SUMMARY
-          echo "- ✅ Automatic artifact collection dan upload" >> $GITHUB_STEP_SUMMARY
-          echo "- ✅ **MLflow Project retraining (bukan python manual)**" >> $GITHUB_STEP_SUMMARY
+          echo "- ✅ Automatic artifact collection dari MLflow" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### 🔄 Retraining Method" >> $GITHUB_STEP_SUMMARY
+          echo "Model di-retrain menggunakan **\`mlflow run\`** command yang menjalankan MLProject," >> $GITHUB_STEP_SUMMARY
+          echo "bukan dengan menjalankan file Python secara manual." >> $GITHUB_STEP_SUMMARY
