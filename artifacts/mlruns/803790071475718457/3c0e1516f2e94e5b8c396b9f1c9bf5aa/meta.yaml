@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/803790071475718457/3c0e1516f2e94e5b8c396b9f1c9bf5aa/artifacts
+end_time: 1766580985450
+entry_point_name: ''
+experiment_id: '803790071475718457'
+lifecycle_stage: active
+run_id: 3c0e1516f2e94e5b8c396b9f1c9bf5aa
+run_name: spiffy-moose-458
+run_uuid: 3c0e1516f2e94e5b8c396b9f1c9bf5aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766580975993
+status: 3
+tags: []
+user_id: runner
