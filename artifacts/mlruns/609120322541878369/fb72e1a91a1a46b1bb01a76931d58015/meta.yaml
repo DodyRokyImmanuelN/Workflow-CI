@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/609120322541878369/fb72e1a91a1a46b1bb01a76931d58015/artifacts
+end_time: 1766667369383
+entry_point_name: ''
+experiment_id: '609120322541878369'
+lifecycle_stage: active
+run_id: fb72e1a91a1a46b1bb01a76931d58015
+run_name: crawling-crow-106
+run_uuid: fb72e1a91a1a46b1bb01a76931d58015
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766667361988
+status: 3
+tags: []
+user_id: runner
