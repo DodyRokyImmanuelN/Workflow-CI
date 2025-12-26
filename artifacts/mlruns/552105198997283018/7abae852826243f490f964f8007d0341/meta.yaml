@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/552105198997283018/7abae852826243f490f964f8007d0341/artifacts
+end_time: 1766753772312
+entry_point_name: ''
+experiment_id: '552105198997283018'
+lifecycle_stage: active
+run_id: 7abae852826243f490f964f8007d0341
+run_name: sincere-ape-185
+run_uuid: 7abae852826243f490f964f8007d0341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766753766086
+status: 3
+tags: []
+user_id: runner
