@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/412095283053064525/192004fde12943d59de5ef99a9891d07/artifacts
+end_time: 1766840008224
+entry_point_name: ''
+experiment_id: '412095283053064525'
+lifecycle_stage: active
+run_id: 192004fde12943d59de5ef99a9891d07
+run_name: handsome-pig-627
+run_uuid: 192004fde12943d59de5ef99a9891d07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766840002095
+status: 3
+tags: []
+user_id: runner
