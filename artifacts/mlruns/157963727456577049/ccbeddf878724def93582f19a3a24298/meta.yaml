@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/157963727456577049/ccbeddf878724def93582f19a3a24298/artifacts
+end_time: 1767099505906
+entry_point_name: ''
+experiment_id: '157963727456577049'
+lifecycle_stage: active
+run_id: ccbeddf878724def93582f19a3a24298
+run_name: placid-eel-104
+run_uuid: ccbeddf878724def93582f19a3a24298
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767099497727
+status: 3
+tags: []
+user_id: runner
