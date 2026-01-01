@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/257693101538993458/0f0c0300c9c04597841a1e67b3ae8847/artifacts
+end_time: 1767272219282
+entry_point_name: ''
+experiment_id: '257693101538993458'
+lifecycle_stage: active
+run_id: 0f0c0300c9c04597841a1e67b3ae8847
+run_name: shivering-conch-217
+run_uuid: 0f0c0300c9c04597841a1e67b3ae8847
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767272212354
+status: 3
+tags: []
+user_id: runner
