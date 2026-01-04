@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/423951123419919653/d2ac6bb0df7248628592aab1cb1f4b65/artifacts
+end_time: 1767531269744
+entry_point_name: ''
+experiment_id: '423951123419919653'
+lifecycle_stage: active
+run_id: d2ac6bb0df7248628592aab1cb1f4b65
+run_name: skillful-kit-953
+run_uuid: d2ac6bb0df7248628592aab1cb1f4b65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767531263107
+status: 3
+tags: []
+user_id: runner
