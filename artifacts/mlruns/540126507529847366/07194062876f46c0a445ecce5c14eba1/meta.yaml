@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/540126507529847366/07194062876f46c0a445ecce5c14eba1/artifacts
+end_time: 1767704325261
+entry_point_name: ''
+experiment_id: '540126507529847366'
+lifecycle_stage: active
+run_id: 07194062876f46c0a445ecce5c14eba1
+run_name: secretive-dove-630
+run_uuid: 07194062876f46c0a445ecce5c14eba1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767704319321
+status: 3
+tags: []
+user_id: runner
