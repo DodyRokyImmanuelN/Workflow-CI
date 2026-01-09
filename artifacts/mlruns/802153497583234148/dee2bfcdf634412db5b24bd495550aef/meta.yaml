@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/802153497583234148/dee2bfcdf634412db5b24bd495550aef/artifacts
+end_time: 1767963593717
+entry_point_name: ''
+experiment_id: '802153497583234148'
+lifecycle_stage: active
+run_id: dee2bfcdf634412db5b24bd495550aef
+run_name: intrigued-bird-771
+run_uuid: dee2bfcdf634412db5b24bd495550aef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767963587456
+status: 3
+tags: []
+user_id: runner
