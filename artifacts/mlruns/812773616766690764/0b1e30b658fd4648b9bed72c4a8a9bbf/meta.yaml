@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/812773616766690764/0b1e30b658fd4648b9bed72c4a8a9bbf/artifacts
+end_time: 1768049646743
+entry_point_name: ''
+experiment_id: '812773616766690764'
+lifecycle_stage: active
+run_id: 0b1e30b658fd4648b9bed72c4a8a9bbf
+run_name: delightful-koi-480
+run_uuid: 0b1e30b658fd4648b9bed72c4a8a9bbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768049640300
+status: 3
+tags: []
+user_id: runner
