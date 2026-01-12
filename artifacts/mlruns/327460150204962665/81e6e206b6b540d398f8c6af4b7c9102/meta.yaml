@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/327460150204962665/81e6e206b6b540d398f8c6af4b7c9102/artifacts
+end_time: 1768222937218
+entry_point_name: ''
+experiment_id: '327460150204962665'
+lifecycle_stage: active
+run_id: 81e6e206b6b540d398f8c6af4b7c9102
+run_name: unequaled-grouse-779
+run_uuid: 81e6e206b6b540d398f8c6af4b7c9102
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768222930556
+status: 3
+tags: []
+user_id: runner
