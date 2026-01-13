@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/930520901229581243/0ed25dc3a5694c65ade65653bf0d579d/artifacts
+end_time: 1768309328762
+entry_point_name: ''
+experiment_id: '930520901229581243'
+lifecycle_stage: active
+run_id: 0ed25dc3a5694c65ade65653bf0d579d
+run_name: valuable-koi-581
+run_uuid: 0ed25dc3a5694c65ade65653bf0d579d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768309321118
+status: 3
+tags: []
+user_id: runner
