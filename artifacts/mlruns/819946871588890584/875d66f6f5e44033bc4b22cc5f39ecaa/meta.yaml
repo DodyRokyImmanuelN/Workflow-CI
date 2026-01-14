@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/819946871588890584/875d66f6f5e44033bc4b22cc5f39ecaa/artifacts
+end_time: 1768395731402
+entry_point_name: ''
+experiment_id: '819946871588890584'
+lifecycle_stage: active
+run_id: 875d66f6f5e44033bc4b22cc5f39ecaa
+run_name: tasteful-kit-209
+run_uuid: 875d66f6f5e44033bc4b22cc5f39ecaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768395725118
+status: 3
+tags: []
+user_id: runner
