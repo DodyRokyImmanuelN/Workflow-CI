@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/461365095808436804/189092f192de4a42a6b2ea89d6d94970/artifacts
+end_time: 1768827919774
+entry_point_name: ''
+experiment_id: '461365095808436804'
+lifecycle_stage: active
+run_id: 189092f192de4a42a6b2ea89d6d94970
+run_name: painted-bass-303
+run_uuid: 189092f192de4a42a6b2ea89d6d94970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768827913619
+status: 3
+tags: []
+user_id: runner
