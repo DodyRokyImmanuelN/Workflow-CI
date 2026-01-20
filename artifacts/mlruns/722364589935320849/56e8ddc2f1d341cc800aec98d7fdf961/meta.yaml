@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/722364589935320849/56e8ddc2f1d341cc800aec98d7fdf961/artifacts
+end_time: 1768914363866
+entry_point_name: ''
+experiment_id: '722364589935320849'
+lifecycle_stage: active
+run_id: 56e8ddc2f1d341cc800aec98d7fdf961
+run_name: resilient-vole-63
+run_uuid: 56e8ddc2f1d341cc800aec98d7fdf961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768914356615
+status: 3
+tags: []
+user_id: runner
