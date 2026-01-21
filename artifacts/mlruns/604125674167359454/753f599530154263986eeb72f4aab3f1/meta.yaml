@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/604125674167359454/753f599530154263986eeb72f4aab3f1/artifacts
+end_time: 1769000696418
+entry_point_name: ''
+experiment_id: '604125674167359454'
+lifecycle_stage: active
+run_id: 753f599530154263986eeb72f4aab3f1
+run_name: languid-deer-716
+run_uuid: 753f599530154263986eeb72f4aab3f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769000690674
+status: 3
+tags: []
+user_id: runner
