@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/867910493836226324/f79374d0299149aa8b0a3f79f76551d9/artifacts
+end_time: 1769173369727
+entry_point_name: ''
+experiment_id: '867910493836226324'
+lifecycle_stage: active
+run_id: f79374d0299149aa8b0a3f79f76551d9
+run_name: traveling-eel-524
+run_uuid: f79374d0299149aa8b0a3f79f76551d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769173362096
+status: 3
+tags: []
+user_id: runner
