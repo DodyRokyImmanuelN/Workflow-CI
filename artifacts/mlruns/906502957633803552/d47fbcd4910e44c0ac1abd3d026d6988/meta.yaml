@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/906502957633803552/d47fbcd4910e44c0ac1abd3d026d6988/artifacts
+end_time: 1769259297803
+entry_point_name: ''
+experiment_id: '906502957633803552'
+lifecycle_stage: active
+run_id: d47fbcd4910e44c0ac1abd3d026d6988
+run_name: intelligent-calf-462
+run_uuid: d47fbcd4910e44c0ac1abd3d026d6988
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769259291452
+status: 3
+tags: []
+user_id: runner
