@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/872932403402306797/723f701e7b1344bca20c0b935c927619/artifacts
+end_time: 1769345816936
+entry_point_name: ''
+experiment_id: '872932403402306797'
+lifecycle_stage: active
+run_id: 723f701e7b1344bca20c0b935c927619
+run_name: bustling-tern-320
+run_uuid: 723f701e7b1344bca20c0b935c927619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769345808775
+status: 3
+tags: []
+user_id: runner
