@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/315690873228551845/333b3c296744473e9c31e6ce407c8e19/artifacts
+end_time: 1769432642581
+entry_point_name: ''
+experiment_id: '315690873228551845'
+lifecycle_stage: active
+run_id: 333b3c296744473e9c31e6ce407c8e19
+run_name: wistful-deer-193
+run_uuid: 333b3c296744473e9c31e6ce407c8e19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769432636462
+status: 3
+tags: []
+user_id: runner
