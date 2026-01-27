@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/847200849984171266/48b1b60ba1824061883d1a4dd0ba6609/artifacts
+end_time: 1769519165696
+entry_point_name: ''
+experiment_id: '847200849984171266'
+lifecycle_stage: active
+run_id: 48b1b60ba1824061883d1a4dd0ba6609
+run_name: clean-goat-853
+run_uuid: 48b1b60ba1824061883d1a4dd0ba6609
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769519158658
+status: 3
+tags: []
+user_id: runner
