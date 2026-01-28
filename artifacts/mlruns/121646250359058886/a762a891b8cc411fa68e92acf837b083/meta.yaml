@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/121646250359058886/a762a891b8cc411fa68e92acf837b083/artifacts
+end_time: 1769605577445
+entry_point_name: ''
+experiment_id: '121646250359058886'
+lifecycle_stage: active
+run_id: a762a891b8cc411fa68e92acf837b083
+run_name: charming-whale-195
+run_uuid: a762a891b8cc411fa68e92acf837b083
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769605570717
+status: 3
+tags: []
+user_id: runner
