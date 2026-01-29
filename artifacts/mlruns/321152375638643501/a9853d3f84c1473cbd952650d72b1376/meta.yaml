@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/321152375638643501/a9853d3f84c1473cbd952650d72b1376/artifacts
+end_time: 1769692426679
+entry_point_name: ''
+experiment_id: '321152375638643501'
+lifecycle_stage: active
+run_id: a9853d3f84c1473cbd952650d72b1376
+run_name: thundering-crab-467
+run_uuid: a9853d3f84c1473cbd952650d72b1376
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769692419838
+status: 3
+tags: []
+user_id: runner
