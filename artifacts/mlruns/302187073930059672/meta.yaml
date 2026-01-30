@@ -1,0 +1,6 @@
+artifact_location: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/302187073930059672
+creation_time: 1769778700249
+experiment_id: '302187073930059672'
+last_update_time: 1769778700249
+lifecycle_stage: active
+name: Heart-Disease-Classification

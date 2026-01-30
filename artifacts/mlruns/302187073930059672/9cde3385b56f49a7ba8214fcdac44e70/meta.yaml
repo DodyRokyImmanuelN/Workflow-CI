@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/302187073930059672/9cde3385b56f49a7ba8214fcdac44e70/artifacts
+end_time: 1769778706764
+entry_point_name: ''
+experiment_id: '302187073930059672'
+lifecycle_stage: active
+run_id: 9cde3385b56f49a7ba8214fcdac44e70
+run_name: illustrious-fly-138
+run_uuid: 9cde3385b56f49a7ba8214fcdac44e70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769778700295
+status: 3
+tags: []
+user_id: runner
