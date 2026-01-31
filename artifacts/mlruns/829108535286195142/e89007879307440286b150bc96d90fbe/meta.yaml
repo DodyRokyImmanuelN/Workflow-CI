@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/829108535286195142/e89007879307440286b150bc96d90fbe/artifacts
+end_time: 1769864584304
+entry_point_name: ''
+experiment_id: '829108535286195142'
+lifecycle_stage: active
+run_id: e89007879307440286b150bc96d90fbe
+run_name: incongruous-elk-224
+run_uuid: e89007879307440286b150bc96d90fbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769864578273
+status: 3
+tags: []
+user_id: runner
