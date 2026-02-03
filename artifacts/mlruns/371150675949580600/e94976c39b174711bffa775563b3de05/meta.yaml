@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/371150675949580600/e94976c39b174711bffa775563b3de05/artifacts
+end_time: 1770124649044
+entry_point_name: ''
+experiment_id: '371150675949580600'
+lifecycle_stage: active
+run_id: e94976c39b174711bffa775563b3de05
+run_name: carefree-auk-375
+run_uuid: e94976c39b174711bffa775563b3de05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770124642474
+status: 3
+tags: []
+user_id: runner
