@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/516376488357096223/597d7df082914c2c9c761f128c029440/artifacts
+end_time: 1770210994461
+entry_point_name: ''
+experiment_id: '516376488357096223'
+lifecycle_stage: active
+run_id: 597d7df082914c2c9c761f128c029440
+run_name: dashing-ray-191
+run_uuid: 597d7df082914c2c9c761f128c029440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770210988052
+status: 3
+tags: []
+user_id: runner
