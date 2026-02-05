@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/491422929773950459/8ff0377239f8465da5cbe11f9a77c617/artifacts
+end_time: 1770297519731
+entry_point_name: ''
+experiment_id: '491422929773950459'
+lifecycle_stage: active
+run_id: 8ff0377239f8465da5cbe11f9a77c617
+run_name: placid-carp-190
+run_uuid: 8ff0377239f8465da5cbe11f9a77c617
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770297513254
+status: 3
+tags: []
+user_id: runner
