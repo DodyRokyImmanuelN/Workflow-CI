@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/426297412228988918/bca355e686e44a1389f332826598c8fd/artifacts
+end_time: 1770383759536
+entry_point_name: ''
+experiment_id: '426297412228988918'
+lifecycle_stage: active
+run_id: bca355e686e44a1389f332826598c8fd
+run_name: beautiful-fish-72
+run_uuid: bca355e686e44a1389f332826598c8fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770383752423
+status: 3
+tags: []
+user_id: runner
