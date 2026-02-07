@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/313715606520367948/0450edbbcb164bf6983e1fe9fa34963e/artifacts
+end_time: 1770469474152
+entry_point_name: ''
+experiment_id: '313715606520367948'
+lifecycle_stage: active
+run_id: 0450edbbcb164bf6983e1fe9fa34963e
+run_name: omniscient-shoat-920
+run_uuid: 0450edbbcb164bf6983e1fe9fa34963e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770469467207
+status: 3
+tags: []
+user_id: runner
