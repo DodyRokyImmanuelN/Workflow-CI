@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/225364640792118362/e30988527906462e8b2fa8e706862d11/artifacts
+end_time: 1770555942995
+entry_point_name: ''
+experiment_id: '225364640792118362'
+lifecycle_stage: active
+run_id: e30988527906462e8b2fa8e706862d11
+run_name: glamorous-fox-251
+run_uuid: e30988527906462e8b2fa8e706862d11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770555936656
+status: 3
+tags: []
+user_id: runner
