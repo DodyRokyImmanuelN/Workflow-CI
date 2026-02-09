@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/691542130251455399/d7a2b194004343ad84dca1c301f105cc/artifacts
+end_time: 1770643527967
+entry_point_name: ''
+experiment_id: '691542130251455399'
+lifecycle_stage: active
+run_id: d7a2b194004343ad84dca1c301f105cc
+run_name: unequaled-bird-297
+run_uuid: d7a2b194004343ad84dca1c301f105cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770643520977
+status: 3
+tags: []
+user_id: runner
