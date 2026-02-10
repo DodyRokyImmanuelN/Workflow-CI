@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/908993767903654342/361a0e4f6f5e49cbb65b79200e992b2b/artifacts
+end_time: 1770730866618
+entry_point_name: ''
+experiment_id: '908993767903654342'
+lifecycle_stage: active
+run_id: 361a0e4f6f5e49cbb65b79200e992b2b
+run_name: mercurial-turtle-729
+run_uuid: 361a0e4f6f5e49cbb65b79200e992b2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770730859999
+status: 3
+tags: []
+user_id: runner
