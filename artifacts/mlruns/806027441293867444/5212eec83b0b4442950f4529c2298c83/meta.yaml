@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/806027441293867444/5212eec83b0b4442950f4529c2298c83/artifacts
+end_time: 1770816419725
+entry_point_name: ''
+experiment_id: '806027441293867444'
+lifecycle_stage: active
+run_id: 5212eec83b0b4442950f4529c2298c83
+run_name: shivering-hog-36
+run_uuid: 5212eec83b0b4442950f4529c2298c83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770816413496
+status: 3
+tags: []
+user_id: runner
