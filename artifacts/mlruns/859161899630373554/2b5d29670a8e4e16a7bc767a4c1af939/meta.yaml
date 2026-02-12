@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/859161899630373554/2b5d29670a8e4e16a7bc767a4c1af939/artifacts
+end_time: 1770902715779
+entry_point_name: ''
+experiment_id: '859161899630373554'
+lifecycle_stage: active
+run_id: 2b5d29670a8e4e16a7bc767a4c1af939
+run_name: enchanting-finch-618
+run_uuid: 2b5d29670a8e4e16a7bc767a4c1af939
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770902709825
+status: 3
+tags: []
+user_id: runner
