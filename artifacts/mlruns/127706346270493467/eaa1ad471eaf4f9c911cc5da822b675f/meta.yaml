@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/127706346270493467/eaa1ad471eaf4f9c911cc5da822b675f/artifacts
+end_time: 1770988634639
+entry_point_name: ''
+experiment_id: '127706346270493467'
+lifecycle_stage: active
+run_id: eaa1ad471eaf4f9c911cc5da822b675f
+run_name: rumbling-carp-23
+run_uuid: eaa1ad471eaf4f9c911cc5da822b675f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770988626753
+status: 3
+tags: []
+user_id: runner
