@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/290940458547973076/8fa0f82ea614434a83111c7c1d70af58/artifacts
+end_time: 1771074288305
+entry_point_name: ''
+experiment_id: '290940458547973076'
+lifecycle_stage: active
+run_id: 8fa0f82ea614434a83111c7c1d70af58
+run_name: polite-asp-186
+run_uuid: 8fa0f82ea614434a83111c7c1d70af58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771074281356
+status: 3
+tags: []
+user_id: runner
