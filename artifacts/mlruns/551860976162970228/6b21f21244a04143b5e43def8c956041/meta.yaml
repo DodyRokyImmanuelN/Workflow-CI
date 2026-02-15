@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/551860976162970228/6b21f21244a04143b5e43def8c956041/artifacts
+end_time: 1771160809410
+entry_point_name: ''
+experiment_id: '551860976162970228'
+lifecycle_stage: active
+run_id: 6b21f21244a04143b5e43def8c956041
+run_name: placid-gull-647
+run_uuid: 6b21f21244a04143b5e43def8c956041
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771160802938
+status: 3
+tags: []
+user_id: runner
