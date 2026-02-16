@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/482826185031593600/aab7474a57f14b96bf400ae422cf8e4f/artifacts
+end_time: 1771248013908
+entry_point_name: ''
+experiment_id: '482826185031593600'
+lifecycle_stage: active
+run_id: aab7474a57f14b96bf400ae422cf8e4f
+run_name: rogue-cub-698
+run_uuid: aab7474a57f14b96bf400ae422cf8e4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771248006733
+status: 3
+tags: []
+user_id: runner
