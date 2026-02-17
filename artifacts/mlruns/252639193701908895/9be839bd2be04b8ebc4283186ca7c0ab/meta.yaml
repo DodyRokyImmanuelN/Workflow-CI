@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/252639193701908895/9be839bd2be04b8ebc4283186ca7c0ab/artifacts
+end_time: 1771334415120
+entry_point_name: ''
+experiment_id: '252639193701908895'
+lifecycle_stage: active
+run_id: 9be839bd2be04b8ebc4283186ca7c0ab
+run_name: dapper-bug-297
+run_uuid: 9be839bd2be04b8ebc4283186ca7c0ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771334408394
+status: 3
+tags: []
+user_id: runner
