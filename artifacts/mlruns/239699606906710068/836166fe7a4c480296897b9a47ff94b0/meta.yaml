@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/239699606906710068/836166fe7a4c480296897b9a47ff94b0/artifacts
+end_time: 1771420921450
+entry_point_name: ''
+experiment_id: '239699606906710068'
+lifecycle_stage: active
+run_id: 836166fe7a4c480296897b9a47ff94b0
+run_name: puzzled-lynx-780
+run_uuid: 836166fe7a4c480296897b9a47ff94b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771420914407
+status: 3
+tags: []
+user_id: runner
