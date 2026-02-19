@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/526414934634477093/5d32c9833af140b788c289ad1e46b5d0/artifacts
+end_time: 1771507410905
+entry_point_name: ''
+experiment_id: '526414934634477093'
+lifecycle_stage: active
+run_id: 5d32c9833af140b788c289ad1e46b5d0
+run_name: dazzling-gnu-396
+run_uuid: 5d32c9833af140b788c289ad1e46b5d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771507402112
+status: 3
+tags: []
+user_id: runner
