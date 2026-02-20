@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/665309480938881643/d6a2374abd5549a088ceb6888a6886ca/artifacts
+end_time: 1771593276639
+entry_point_name: ''
+experiment_id: '665309480938881643'
+lifecycle_stage: active
+run_id: d6a2374abd5549a088ceb6888a6886ca
+run_name: persistent-snail-471
+run_uuid: d6a2374abd5549a088ceb6888a6886ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771593269063
+status: 3
+tags: []
+user_id: runner
