@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/730608864225215245/d6f9a14d96454e459470863a0f58de7f/artifacts
+end_time: 1771765541148
+entry_point_name: ''
+experiment_id: '730608864225215245'
+lifecycle_stage: active
+run_id: d6f9a14d96454e459470863a0f58de7f
+run_name: delicate-mare-491
+run_uuid: d6f9a14d96454e459470863a0f58de7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771765534346
+status: 3
+tags: []
+user_id: runner
