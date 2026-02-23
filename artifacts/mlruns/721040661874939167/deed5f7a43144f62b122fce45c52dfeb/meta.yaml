@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/721040661874939167/deed5f7a43144f62b122fce45c52dfeb/artifacts
+end_time: 1771852905080
+entry_point_name: ''
+experiment_id: '721040661874939167'
+lifecycle_stage: active
+run_id: deed5f7a43144f62b122fce45c52dfeb
+run_name: sneaky-zebra-793
+run_uuid: deed5f7a43144f62b122fce45c52dfeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771852898251
+status: 3
+tags: []
+user_id: runner
