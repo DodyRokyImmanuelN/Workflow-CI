@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/542916120831345843/aad532238109448ea5485fcf3a876352/artifacts
+end_time: 1771939391173
+entry_point_name: ''
+experiment_id: '542916120831345843'
+lifecycle_stage: active
+run_id: aad532238109448ea5485fcf3a876352
+run_name: beautiful-lark-670
+run_uuid: aad532238109448ea5485fcf3a876352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771939384550
+status: 3
+tags: []
+user_id: runner
