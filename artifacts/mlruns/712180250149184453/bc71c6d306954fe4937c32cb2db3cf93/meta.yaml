@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/712180250149184453/bc71c6d306954fe4937c32cb2db3cf93/artifacts
+end_time: 1772283608108
+entry_point_name: ''
+experiment_id: '712180250149184453'
+lifecycle_stage: active
+run_id: bc71c6d306954fe4937c32cb2db3cf93
+run_name: luxuriant-bat-204
+run_uuid: bc71c6d306954fe4937c32cb2db3cf93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772283600502
+status: 3
+tags: []
+user_id: runner
