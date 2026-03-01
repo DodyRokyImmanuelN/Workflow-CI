@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/832782010266560879/396b537fe92a469983d578c04210d642/artifacts
+end_time: 1772370230834
+entry_point_name: ''
+experiment_id: '832782010266560879'
+lifecycle_stage: active
+run_id: 396b537fe92a469983d578c04210d642
+run_name: traveling-shark-885
+run_uuid: 396b537fe92a469983d578c04210d642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772370223452
+status: 3
+tags: []
+user_id: runner
