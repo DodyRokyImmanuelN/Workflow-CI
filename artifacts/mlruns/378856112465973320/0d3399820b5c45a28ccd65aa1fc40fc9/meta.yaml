@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/378856112465973320/0d3399820b5c45a28ccd65aa1fc40fc9/artifacts
+end_time: 1772457341479
+entry_point_name: ''
+experiment_id: '378856112465973320'
+lifecycle_stage: active
+run_id: 0d3399820b5c45a28ccd65aa1fc40fc9
+run_name: popular-bug-239
+run_uuid: 0d3399820b5c45a28ccd65aa1fc40fc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772457334480
+status: 3
+tags: []
+user_id: runner
