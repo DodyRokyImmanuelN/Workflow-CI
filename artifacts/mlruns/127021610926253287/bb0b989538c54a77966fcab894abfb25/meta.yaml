@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/127021610926253287/bb0b989538c54a77966fcab894abfb25/artifacts
+end_time: 1772629972732
+entry_point_name: ''
+experiment_id: '127021610926253287'
+lifecycle_stage: active
+run_id: bb0b989538c54a77966fcab894abfb25
+run_name: agreeable-sloth-328
+run_uuid: bb0b989538c54a77966fcab894abfb25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772629965723
+status: 3
+tags: []
+user_id: runner
