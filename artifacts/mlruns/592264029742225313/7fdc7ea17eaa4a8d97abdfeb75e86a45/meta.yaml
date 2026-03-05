@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/592264029742225313/7fdc7ea17eaa4a8d97abdfeb75e86a45/artifacts
+end_time: 1772716606228
+entry_point_name: ''
+experiment_id: '592264029742225313'
+lifecycle_stage: active
+run_id: 7fdc7ea17eaa4a8d97abdfeb75e86a45
+run_name: brawny-snake-413
+run_uuid: 7fdc7ea17eaa4a8d97abdfeb75e86a45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772716599588
+status: 3
+tags: []
+user_id: runner
