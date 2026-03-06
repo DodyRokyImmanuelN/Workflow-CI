@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/547849724096565109/45cfacddf9a445939021f7812618b5f1/artifacts
+end_time: 1772802743992
+entry_point_name: ''
+experiment_id: '547849724096565109'
+lifecycle_stage: active
+run_id: 45cfacddf9a445939021f7812618b5f1
+run_name: respected-swan-297
+run_uuid: 45cfacddf9a445939021f7812618b5f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772802735724
+status: 3
+tags: []
+user_id: runner
