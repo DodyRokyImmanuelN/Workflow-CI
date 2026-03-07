@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/547021881120206837/f942d949fbc443378e4d59a7077eca98/artifacts
+end_time: 1772888540972
+entry_point_name: ''
+experiment_id: '547021881120206837'
+lifecycle_stage: active
+run_id: f942d949fbc443378e4d59a7077eca98
+run_name: intelligent-wasp-620
+run_uuid: f942d949fbc443378e4d59a7077eca98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772888534408
+status: 3
+tags: []
+user_id: runner
