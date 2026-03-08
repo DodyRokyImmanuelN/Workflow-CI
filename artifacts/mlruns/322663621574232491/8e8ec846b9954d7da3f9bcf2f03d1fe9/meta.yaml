@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/322663621574232491/8e8ec846b9954d7da3f9bcf2f03d1fe9/artifacts
+end_time: 1772975036248
+entry_point_name: ''
+experiment_id: '322663621574232491'
+lifecycle_stage: active
+run_id: 8e8ec846b9954d7da3f9bcf2f03d1fe9
+run_name: chill-lark-811
+run_uuid: 8e8ec846b9954d7da3f9bcf2f03d1fe9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772975029228
+status: 3
+tags: []
+user_id: runner
