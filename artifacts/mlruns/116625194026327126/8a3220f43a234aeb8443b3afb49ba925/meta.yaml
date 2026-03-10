@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/116625194026327126/8a3220f43a234aeb8443b3afb49ba925/artifacts
+end_time: 1773148682707
+entry_point_name: ''
+experiment_id: '116625194026327126'
+lifecycle_stage: active
+run_id: 8a3220f43a234aeb8443b3afb49ba925
+run_name: mercurial-stoat-37
+run_uuid: 8a3220f43a234aeb8443b3afb49ba925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773148676086
+status: 3
+tags: []
+user_id: runner
