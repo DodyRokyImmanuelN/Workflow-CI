@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/528665370157957349/6534d91e35e94ea3a41ffa3f4a8cc011/artifacts
+end_time: 1773407741551
+entry_point_name: ''
+experiment_id: '528665370157957349'
+lifecycle_stage: active
+run_id: 6534d91e35e94ea3a41ffa3f4a8cc011
+run_name: rebellious-crab-468
+run_uuid: 6534d91e35e94ea3a41ffa3f4a8cc011
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773407735623
+status: 3
+tags: []
+user_id: runner
