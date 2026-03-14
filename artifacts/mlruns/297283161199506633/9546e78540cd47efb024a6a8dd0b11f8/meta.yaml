@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/297283161199506633/9546e78540cd47efb024a6a8dd0b11f8/artifacts
+end_time: 1773493684380
+entry_point_name: ''
+experiment_id: '297283161199506633'
+lifecycle_stage: active
+run_id: 9546e78540cd47efb024a6a8dd0b11f8
+run_name: persistent-ray-57
+run_uuid: 9546e78540cd47efb024a6a8dd0b11f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773493675905
+status: 3
+tags: []
+user_id: runner
