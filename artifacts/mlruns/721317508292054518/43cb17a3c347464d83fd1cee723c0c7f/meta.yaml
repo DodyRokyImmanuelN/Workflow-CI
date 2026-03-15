@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/721317508292054518/43cb17a3c347464d83fd1cee723c0c7f/artifacts
+end_time: 1773580114435
+entry_point_name: ''
+experiment_id: '721317508292054518'
+lifecycle_stage: active
+run_id: 43cb17a3c347464d83fd1cee723c0c7f
+run_name: thundering-bass-758
+run_uuid: 43cb17a3c347464d83fd1cee723c0c7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773580107851
+status: 3
+tags: []
+user_id: runner
