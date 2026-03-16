@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/194427620058387987/7fe79c1853fc4527bf1f82bf01ed7de4/artifacts
+end_time: 1773668577536
+entry_point_name: ''
+experiment_id: '194427620058387987'
+lifecycle_stage: active
+run_id: 7fe79c1853fc4527bf1f82bf01ed7de4
+run_name: amazing-midge-653
+run_uuid: 7fe79c1853fc4527bf1f82bf01ed7de4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773668570905
+status: 3
+tags: []
+user_id: runner
