@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/791958681914495255/58f7922d02bf4243951a18c7c8dbefc6/artifacts
+end_time: 1773754065831
+entry_point_name: ''
+experiment_id: '791958681914495255'
+lifecycle_stage: active
+run_id: 58f7922d02bf4243951a18c7c8dbefc6
+run_name: efficient-toad-738
+run_uuid: 58f7922d02bf4243951a18c7c8dbefc6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773754057952
+status: 3
+tags: []
+user_id: runner
