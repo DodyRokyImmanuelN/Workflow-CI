@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/457940521222216265/5eefe2c4577541518dbe28da194f0daf/artifacts
+end_time: 1773841324560
+entry_point_name: ''
+experiment_id: '457940521222216265'
+lifecycle_stage: active
+run_id: 5eefe2c4577541518dbe28da194f0daf
+run_name: spiffy-boar-782
+run_uuid: 5eefe2c4577541518dbe28da194f0daf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773841317410
+status: 3
+tags: []
+user_id: runner
