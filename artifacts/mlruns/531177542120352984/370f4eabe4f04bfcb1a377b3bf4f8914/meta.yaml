@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/531177542120352984/370f4eabe4f04bfcb1a377b3bf4f8914/artifacts
+end_time: 1773926558028
+entry_point_name: ''
+experiment_id: '531177542120352984'
+lifecycle_stage: active
+run_id: 370f4eabe4f04bfcb1a377b3bf4f8914
+run_name: unleashed-shad-758
+run_uuid: 370f4eabe4f04bfcb1a377b3bf4f8914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773926550986
+status: 3
+tags: []
+user_id: runner
