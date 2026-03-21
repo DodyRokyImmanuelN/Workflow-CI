@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/845625367806861732/3272827d3cd74051917d844a9076ebcb/artifacts
+end_time: 1774098298408
+entry_point_name: ''
+experiment_id: '845625367806861732'
+lifecycle_stage: active
+run_id: 3272827d3cd74051917d844a9076ebcb
+run_name: delightful-rat-768
+run_uuid: 3272827d3cd74051917d844a9076ebcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774098291434
+status: 3
+tags: []
+user_id: runner
