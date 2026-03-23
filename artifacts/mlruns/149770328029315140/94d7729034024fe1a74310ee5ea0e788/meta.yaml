@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/149770328029315140/94d7729034024fe1a74310ee5ea0e788/artifacts
+end_time: 1774272259251
+entry_point_name: ''
+experiment_id: '149770328029315140'
+lifecycle_stage: active
+run_id: 94d7729034024fe1a74310ee5ea0e788
+run_name: peaceful-fawn-361
+run_uuid: 94d7729034024fe1a74310ee5ea0e788
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774272252375
+status: 3
+tags: []
+user_id: runner
