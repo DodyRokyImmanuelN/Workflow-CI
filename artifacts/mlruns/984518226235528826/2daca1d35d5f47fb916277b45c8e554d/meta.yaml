@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/984518226235528826/2daca1d35d5f47fb916277b45c8e554d/artifacts
+end_time: 1774359614021
+entry_point_name: ''
+experiment_id: '984518226235528826'
+lifecycle_stage: active
+run_id: 2daca1d35d5f47fb916277b45c8e554d
+run_name: dapper-rook-786
+run_uuid: 2daca1d35d5f47fb916277b45c8e554d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774359607216
+status: 3
+tags: []
+user_id: runner
