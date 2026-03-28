@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/319891262147743297/59cde5f4f7464e8793799f1ad1310249/artifacts
+end_time: 1774703421097
+entry_point_name: ''
+experiment_id: '319891262147743297'
+lifecycle_stage: active
+run_id: 59cde5f4f7464e8793799f1ad1310249
+run_name: stately-mink-4
+run_uuid: 59cde5f4f7464e8793799f1ad1310249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774703413934
+status: 3
+tags: []
+user_id: runner
