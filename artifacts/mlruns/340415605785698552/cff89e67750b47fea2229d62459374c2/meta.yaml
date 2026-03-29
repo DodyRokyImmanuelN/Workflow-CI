@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/340415605785698552/cff89e67750b47fea2229d62459374c2/artifacts
+end_time: 1774789896985
+entry_point_name: ''
+experiment_id: '340415605785698552'
+lifecycle_stage: active
+run_id: cff89e67750b47fea2229d62459374c2
+run_name: bedecked-gull-14
+run_uuid: cff89e67750b47fea2229d62459374c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774789889059
+status: 3
+tags: []
+user_id: runner
