@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/735401527733038742/13c96e9ad3e049559866131a95545c96/artifacts
+end_time: 1774878626591
+entry_point_name: ''
+experiment_id: '735401527733038742'
+lifecycle_stage: active
+run_id: 13c96e9ad3e049559866131a95545c96
+run_name: melodic-bass-899
+run_uuid: 13c96e9ad3e049559866131a95545c96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774878620712
+status: 3
+tags: []
+user_id: runner
