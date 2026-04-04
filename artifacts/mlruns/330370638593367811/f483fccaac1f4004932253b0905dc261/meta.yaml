@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/330370638593367811/f483fccaac1f4004932253b0905dc261/artifacts
+end_time: 1775308298597
+entry_point_name: ''
+experiment_id: '330370638593367811'
+lifecycle_stage: active
+run_id: f483fccaac1f4004932253b0905dc261
+run_name: loud-stoat-444
+run_uuid: f483fccaac1f4004932253b0905dc261
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775308291029
+status: 3
+tags: []
+user_id: runner
