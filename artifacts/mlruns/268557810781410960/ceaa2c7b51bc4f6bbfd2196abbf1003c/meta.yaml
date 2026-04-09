@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/268557810781410960/ceaa2c7b51bc4f6bbfd2196abbf1003c/artifacts
+end_time: 1775743203616
+entry_point_name: ''
+experiment_id: '268557810781410960'
+lifecycle_stage: active
+run_id: ceaa2c7b51bc4f6bbfd2196abbf1003c
+run_name: treasured-dolphin-69
+run_uuid: ceaa2c7b51bc4f6bbfd2196abbf1003c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775743197579
+status: 3
+tags: []
+user_id: runner
