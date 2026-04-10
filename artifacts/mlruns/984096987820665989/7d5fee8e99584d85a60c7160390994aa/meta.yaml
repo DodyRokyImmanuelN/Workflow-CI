@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/984096987820665989/7d5fee8e99584d85a60c7160390994aa/artifacts
+end_time: 1775827604298
+entry_point_name: ''
+experiment_id: '984096987820665989'
+lifecycle_stage: active
+run_id: 7d5fee8e99584d85a60c7160390994aa
+run_name: dashing-frog-237
+run_uuid: 7d5fee8e99584d85a60c7160390994aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775827597507
+status: 3
+tags: []
+user_id: runner
