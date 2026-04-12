@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/418560801205925933/d62d8d62e1574cd590b08a3e552da391/artifacts
+end_time: 1775999800999
+entry_point_name: ''
+experiment_id: '418560801205925933'
+lifecycle_stage: active
+run_id: d62d8d62e1574cd590b08a3e552da391
+run_name: funny-owl-977
+run_uuid: d62d8d62e1574cd590b08a3e552da391
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775999794675
+status: 3
+tags: []
+user_id: runner
