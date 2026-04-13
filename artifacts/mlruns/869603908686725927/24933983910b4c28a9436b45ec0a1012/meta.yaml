@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/869603908686725927/24933983910b4c28a9436b45ec0a1012/artifacts
+end_time: 1776088692104
+entry_point_name: ''
+experiment_id: '869603908686725927'
+lifecycle_stage: active
+run_id: 24933983910b4c28a9436b45ec0a1012
+run_name: upset-snail-480
+run_uuid: 24933983910b4c28a9436b45ec0a1012
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776088685344
+status: 3
+tags: []
+user_id: runner
