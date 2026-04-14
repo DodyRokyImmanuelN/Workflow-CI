@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/312874429706247511/e077e13adce24896a64a2561f5dfbb5a/artifacts
+end_time: 1776175322070
+entry_point_name: ''
+experiment_id: '312874429706247511'
+lifecycle_stage: active
+run_id: e077e13adce24896a64a2561f5dfbb5a
+run_name: awesome-tern-637
+run_uuid: e077e13adce24896a64a2561f5dfbb5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776175314660
+status: 3
+tags: []
+user_id: runner
