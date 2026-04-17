@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/530035895826046505/38c5e90fe4544b4c8802a1e9935c3916/artifacts
+end_time: 1776433599009
+entry_point_name: ''
+experiment_id: '530035895826046505'
+lifecycle_stage: active
+run_id: 38c5e90fe4544b4c8802a1e9935c3916
+run_name: wistful-ray-519
+run_uuid: 38c5e90fe4544b4c8802a1e9935c3916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776433592899
+status: 3
+tags: []
+user_id: runner
