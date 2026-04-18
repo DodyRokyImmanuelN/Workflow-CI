@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/782867814876998894/ccacd54a6c3a4b20889c1152f559a897/artifacts
+end_time: 1776518224091
+entry_point_name: ''
+experiment_id: '782867814876998894'
+lifecycle_stage: active
+run_id: ccacd54a6c3a4b20889c1152f559a897
+run_name: salty-zebra-911
+run_uuid: ccacd54a6c3a4b20889c1152f559a897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776518216767
+status: 3
+tags: []
+user_id: runner
