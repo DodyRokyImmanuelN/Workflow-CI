@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/797066133094317791/457e77fe42394c1ca0b15b2a9ca1a85d/artifacts
+end_time: 1776604644734
+entry_point_name: ''
+experiment_id: '797066133094317791'
+lifecycle_stage: active
+run_id: 457e77fe42394c1ca0b15b2a9ca1a85d
+run_name: monumental-gnu-502
+run_uuid: 457e77fe42394c1ca0b15b2a9ca1a85d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776604638079
+status: 3
+tags: []
+user_id: runner
