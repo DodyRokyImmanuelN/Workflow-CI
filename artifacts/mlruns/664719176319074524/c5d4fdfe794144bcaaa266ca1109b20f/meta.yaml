@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/664719176319074524/c5d4fdfe794144bcaaa266ca1109b20f/artifacts
+end_time: 1776693640731
+entry_point_name: ''
+experiment_id: '664719176319074524'
+lifecycle_stage: active
+run_id: c5d4fdfe794144bcaaa266ca1109b20f
+run_name: unruly-cow-305
+run_uuid: c5d4fdfe794144bcaaa266ca1109b20f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776693634243
+status: 3
+tags: []
+user_id: runner
