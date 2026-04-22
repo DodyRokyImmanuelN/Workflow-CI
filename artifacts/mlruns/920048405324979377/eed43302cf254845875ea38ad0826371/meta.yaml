@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/920048405324979377/eed43302cf254845875ea38ad0826371/artifacts
+end_time: 1776866403285
+entry_point_name: ''
+experiment_id: '920048405324979377'
+lifecycle_stage: active
+run_id: eed43302cf254845875ea38ad0826371
+run_name: luminous-smelt-888
+run_uuid: eed43302cf254845875ea38ad0826371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776866391157
+status: 3
+tags: []
+user_id: runner
