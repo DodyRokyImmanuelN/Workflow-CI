@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/810836431167987423/7a4b3815db944933a33eadadea3ef2ad/artifacts
+end_time: 1777209694988
+entry_point_name: ''
+experiment_id: '810836431167987423'
+lifecycle_stage: active
+run_id: 7a4b3815db944933a33eadadea3ef2ad
+run_name: persistent-turtle-28
+run_uuid: 7a4b3815db944933a33eadadea3ef2ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777209688011
+status: 3
+tags: []
+user_id: runner
