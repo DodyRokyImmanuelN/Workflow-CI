@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/506086108656369841/651b61d1164740b4bcf6d47797d5270b/artifacts
+end_time: 1777299130409
+entry_point_name: ''
+experiment_id: '506086108656369841'
+lifecycle_stage: active
+run_id: 651b61d1164740b4bcf6d47797d5270b
+run_name: overjoyed-flea-262
+run_uuid: 651b61d1164740b4bcf6d47797d5270b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777299124299
+status: 3
+tags: []
+user_id: runner
