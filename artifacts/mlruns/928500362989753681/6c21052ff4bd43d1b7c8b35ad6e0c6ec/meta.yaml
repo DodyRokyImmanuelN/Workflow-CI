@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/928500362989753681/6c21052ff4bd43d1b7c8b35ad6e0c6ec/artifacts
+end_time: 1777472379706
+entry_point_name: ''
+experiment_id: '928500362989753681'
+lifecycle_stage: active
+run_id: 6c21052ff4bd43d1b7c8b35ad6e0c6ec
+run_name: vaunted-crane-328
+run_uuid: 6c21052ff4bd43d1b7c8b35ad6e0c6ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777472373072
+status: 3
+tags: []
+user_id: runner
