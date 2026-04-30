@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/700765338019721860/e6601558b68044998daa84ed3e2121f1/artifacts
+end_time: 1777558437662
+entry_point_name: ''
+experiment_id: '700765338019721860'
+lifecycle_stage: active
+run_id: e6601558b68044998daa84ed3e2121f1
+run_name: painted-pug-33
+run_uuid: e6601558b68044998daa84ed3e2121f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777558431467
+status: 3
+tags: []
+user_id: runner
