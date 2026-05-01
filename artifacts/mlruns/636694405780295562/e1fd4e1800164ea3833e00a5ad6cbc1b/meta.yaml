@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/636694405780295562/e1fd4e1800164ea3833e00a5ad6cbc1b/artifacts
+end_time: 1777642979974
+entry_point_name: ''
+experiment_id: '636694405780295562'
+lifecycle_stage: active
+run_id: e1fd4e1800164ea3833e00a5ad6cbc1b
+run_name: respected-kit-621
+run_uuid: e1fd4e1800164ea3833e00a5ad6cbc1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777642971887
+status: 3
+tags: []
+user_id: runner
