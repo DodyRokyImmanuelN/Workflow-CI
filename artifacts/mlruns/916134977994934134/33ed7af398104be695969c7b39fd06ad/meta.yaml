@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/916134977994934134/33ed7af398104be695969c7b39fd06ad/artifacts
+end_time: 1777814810318
+entry_point_name: ''
+experiment_id: '916134977994934134'
+lifecycle_stage: active
+run_id: 33ed7af398104be695969c7b39fd06ad
+run_name: auspicious-roo-338
+run_uuid: 33ed7af398104be695969c7b39fd06ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777814802352
+status: 3
+tags: []
+user_id: runner
