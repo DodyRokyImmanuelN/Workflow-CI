@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/148282500261440295/9c0f324dfcea481e9081d31550ea38d1/artifacts
+end_time: 1778164408018
+entry_point_name: ''
+experiment_id: '148282500261440295'
+lifecycle_stage: active
+run_id: 9c0f324dfcea481e9081d31550ea38d1
+run_name: zealous-whale-637
+run_uuid: 9c0f324dfcea481e9081d31550ea38d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778164400419
+status: 3
+tags: []
+user_id: runner
