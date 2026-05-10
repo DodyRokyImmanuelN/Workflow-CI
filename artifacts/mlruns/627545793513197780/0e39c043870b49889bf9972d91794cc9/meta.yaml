@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/627545793513197780/0e39c043870b49889bf9972d91794cc9/artifacts
+end_time: 1778420626357
+entry_point_name: ''
+experiment_id: '627545793513197780'
+lifecycle_stage: active
+run_id: 0e39c043870b49889bf9972d91794cc9
+run_name: worried-crab-323
+run_uuid: 0e39c043870b49889bf9972d91794cc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778420619574
+status: 3
+tags: []
+user_id: runner
