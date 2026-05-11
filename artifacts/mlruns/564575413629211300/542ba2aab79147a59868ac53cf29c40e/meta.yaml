@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/564575413629211300/542ba2aab79147a59868ac53cf29c40e/artifacts
+end_time: 1778513262695
+entry_point_name: ''
+experiment_id: '564575413629211300'
+lifecycle_stage: active
+run_id: 542ba2aab79147a59868ac53cf29c40e
+run_name: placid-cow-439
+run_uuid: 542ba2aab79147a59868ac53cf29c40e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778513255952
+status: 3
+tags: []
+user_id: runner
