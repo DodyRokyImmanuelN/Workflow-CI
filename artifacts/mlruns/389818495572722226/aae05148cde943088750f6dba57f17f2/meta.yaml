@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/389818495572722226/aae05148cde943088750f6dba57f17f2/artifacts
+end_time: 1778596795450
+entry_point_name: ''
+experiment_id: '389818495572722226'
+lifecycle_stage: active
+run_id: aae05148cde943088750f6dba57f17f2
+run_name: sneaky-bird-130
+run_uuid: aae05148cde943088750f6dba57f17f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778596788837
+status: 3
+tags: []
+user_id: runner
