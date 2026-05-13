@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/702174480073629898/e3dcf27aee9d49f0a949664bb2e06101/artifacts
+end_time: 1778683830808
+entry_point_name: ''
+experiment_id: '702174480073629898'
+lifecycle_stage: active
+run_id: e3dcf27aee9d49f0a949664bb2e06101
+run_name: abundant-ox-973
+run_uuid: e3dcf27aee9d49f0a949664bb2e06101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778683823687
+status: 3
+tags: []
+user_id: runner
