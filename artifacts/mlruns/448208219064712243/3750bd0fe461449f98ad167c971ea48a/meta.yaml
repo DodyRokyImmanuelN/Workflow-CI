@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/448208219064712243/3750bd0fe461449f98ad167c971ea48a/artifacts
+end_time: 1778769006735
+entry_point_name: ''
+experiment_id: '448208219064712243'
+lifecycle_stage: active
+run_id: 3750bd0fe461449f98ad167c971ea48a
+run_name: traveling-finch-466
+run_uuid: 3750bd0fe461449f98ad167c971ea48a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778768999499
+status: 3
+tags: []
+user_id: runner
