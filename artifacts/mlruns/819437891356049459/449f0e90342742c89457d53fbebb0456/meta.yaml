@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/819437891356049459/449f0e90342742c89457d53fbebb0456/artifacts
+end_time: 1778939231585
+entry_point_name: ''
+experiment_id: '819437891356049459'
+lifecycle_stage: active
+run_id: 449f0e90342742c89457d53fbebb0456
+run_name: polite-bat-413
+run_uuid: 449f0e90342742c89457d53fbebb0456
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778939224680
+status: 3
+tags: []
+user_id: runner
