@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/143648830936585543/193104bbf7e940a4b12d5b3534182943/artifacts
+end_time: 1779025625768
+entry_point_name: ''
+experiment_id: '143648830936585543'
+lifecycle_stage: active
+run_id: 193104bbf7e940a4b12d5b3534182943
+run_name: useful-bear-534
+run_uuid: 193104bbf7e940a4b12d5b3534182943
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779025619362
+status: 3
+tags: []
+user_id: runner
