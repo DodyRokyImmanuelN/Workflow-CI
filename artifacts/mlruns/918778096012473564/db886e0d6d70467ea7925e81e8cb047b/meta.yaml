@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/918778096012473564/db886e0d6d70467ea7925e81e8cb047b/artifacts
+end_time: 1779205199378
+entry_point_name: ''
+experiment_id: '918778096012473564'
+lifecycle_stage: active
+run_id: db886e0d6d70467ea7925e81e8cb047b
+run_name: intelligent-doe-648
+run_uuid: db886e0d6d70467ea7925e81e8cb047b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779205192215
+status: 3
+tags: []
+user_id: runner
