@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/986567672628560580/83e17ab5f99a41e2870119f3495f1ef9/artifacts
+end_time: 1779291645714
+entry_point_name: ''
+experiment_id: '986567672628560580'
+lifecycle_stage: active
+run_id: 83e17ab5f99a41e2870119f3495f1ef9
+run_name: upset-ape-756
+run_uuid: 83e17ab5f99a41e2870119f3495f1ef9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779291639221
+status: 3
+tags: []
+user_id: runner
