@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/483937520185597781/4c2709e09ad2438abe614d8ecb4a634b/artifacts
+end_time: 1779544323530
+entry_point_name: ''
+experiment_id: '483937520185597781'
+lifecycle_stage: active
+run_id: 4c2709e09ad2438abe614d8ecb4a634b
+run_name: serious-crane-896
+run_uuid: 4c2709e09ad2438abe614d8ecb4a634b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779544316344
+status: 3
+tags: []
+user_id: runner
