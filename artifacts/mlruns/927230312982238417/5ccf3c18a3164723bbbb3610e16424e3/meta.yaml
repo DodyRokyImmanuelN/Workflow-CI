@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/927230312982238417/5ccf3c18a3164723bbbb3610e16424e3/artifacts
+end_time: 1779630583135
+entry_point_name: ''
+experiment_id: '927230312982238417'
+lifecycle_stage: active
+run_id: 5ccf3c18a3164723bbbb3610e16424e3
+run_name: indecisive-shrew-374
+run_uuid: 5ccf3c18a3164723bbbb3610e16424e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779630575423
+status: 3
+tags: []
+user_id: runner
