@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/534500175368526782/98cfbf0780054ce1a645a9f5ca18409b/artifacts
+end_time: 1779811014267
+entry_point_name: ''
+experiment_id: '534500175368526782'
+lifecycle_stage: active
+run_id: 98cfbf0780054ce1a645a9f5ca18409b
+run_name: spiffy-bass-144
+run_uuid: 98cfbf0780054ce1a645a9f5ca18409b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779811007325
+status: 3
+tags: []
+user_id: runner
