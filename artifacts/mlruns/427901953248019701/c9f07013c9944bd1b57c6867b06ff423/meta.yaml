@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/427901953248019701/c9f07013c9944bd1b57c6867b06ff423/artifacts
+end_time: 1779897666366
+entry_point_name: ''
+experiment_id: '427901953248019701'
+lifecycle_stage: active
+run_id: c9f07013c9944bd1b57c6867b06ff423
+run_name: defiant-wren-461
+run_uuid: c9f07013c9944bd1b57c6867b06ff423
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779897660011
+status: 3
+tags: []
+user_id: runner
