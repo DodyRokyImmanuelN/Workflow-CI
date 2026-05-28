@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/909773403954697808/e1fff9412d6442c18c06372c0870bfcf/artifacts
+end_time: 1779984944401
+entry_point_name: ''
+experiment_id: '909773403954697808'
+lifecycle_stage: active
+run_id: e1fff9412d6442c18c06372c0870bfcf
+run_name: resilient-roo-974
+run_uuid: e1fff9412d6442c18c06372c0870bfcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779984937266
+status: 3
+tags: []
+user_id: runner
