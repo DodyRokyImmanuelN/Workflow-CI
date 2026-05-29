@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/646512832418373352/9b15069e68ec4da4a17f34a79f2fc37d/artifacts
+end_time: 1780070301168
+entry_point_name: ''
+experiment_id: '646512832418373352'
+lifecycle_stage: active
+run_id: 9b15069e68ec4da4a17f34a79f2fc37d
+run_name: dashing-pug-123
+run_uuid: 9b15069e68ec4da4a17f34a79f2fc37d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780070293971
+status: 3
+tags: []
+user_id: runner
