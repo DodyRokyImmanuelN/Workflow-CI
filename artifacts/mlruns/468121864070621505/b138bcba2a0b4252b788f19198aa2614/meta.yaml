@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/468121864070621505/b138bcba2a0b4252b788f19198aa2614/artifacts
+end_time: 1780506171450
+entry_point_name: ''
+experiment_id: '468121864070621505'
+lifecycle_stage: active
+run_id: b138bcba2a0b4252b788f19198aa2614
+run_name: serious-grouse-453
+run_uuid: b138bcba2a0b4252b788f19198aa2614
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780506163876
+status: 3
+tags: []
+user_id: runner
