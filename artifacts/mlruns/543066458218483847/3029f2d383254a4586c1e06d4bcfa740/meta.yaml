@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/543066458218483847/3029f2d383254a4586c1e06d4bcfa740/artifacts
+end_time: 1780672760033
+entry_point_name: ''
+experiment_id: '543066458218483847'
+lifecycle_stage: active
+run_id: 3029f2d383254a4586c1e06d4bcfa740
+run_name: intrigued-elk-575
+run_uuid: 3029f2d383254a4586c1e06d4bcfa740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780672753988
+status: 3
+tags: []
+user_id: runner
