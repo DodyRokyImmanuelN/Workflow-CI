@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/650367539198693652/0336ae1d829742ec8ab24f719f932bb4/artifacts
+end_time: 1780934878078
+entry_point_name: ''
+experiment_id: '650367539198693652'
+lifecycle_stage: active
+run_id: 0336ae1d829742ec8ab24f719f932bb4
+run_name: trusting-grouse-689
+run_uuid: 0336ae1d829742ec8ab24f719f932bb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780934872481
+status: 3
+tags: []
+user_id: runner
