@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/778537250877654565/5f3a0d08725d434a836e07087856915e/artifacts
+end_time: 1781106818711
+entry_point_name: ''
+experiment_id: '778537250877654565'
+lifecycle_stage: active
+run_id: 5f3a0d08725d434a836e07087856915e
+run_name: placid-dog-56
+run_uuid: 5f3a0d08725d434a836e07087856915e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781106811562
+status: 3
+tags: []
+user_id: runner
