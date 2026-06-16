@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/595420509839094347/ce3ff8a9eb71425ebe0989c25803d83e/artifacts
+end_time: 1781629746954
+entry_point_name: ''
+experiment_id: '595420509839094347'
+lifecycle_stage: active
+run_id: ce3ff8a9eb71425ebe0989c25803d83e
+run_name: big-squid-208
+run_uuid: ce3ff8a9eb71425ebe0989c25803d83e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781629740259
+status: 3
+tags: []
+user_id: runner
