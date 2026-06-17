@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/555259785848112906/d2f0cfc77b0541c0bbf86478a2a46639/artifacts
+end_time: 1781711565001
+entry_point_name: ''
+experiment_id: '555259785848112906'
+lifecycle_stage: active
+run_id: d2f0cfc77b0541c0bbf86478a2a46639
+run_name: smiling-yak-227
+run_uuid: d2f0cfc77b0541c0bbf86478a2a46639
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781711558518
+status: 3
+tags: []
+user_id: runner
