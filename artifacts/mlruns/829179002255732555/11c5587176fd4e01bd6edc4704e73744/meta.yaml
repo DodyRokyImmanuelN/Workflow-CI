@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/829179002255732555/11c5587176fd4e01bd6edc4704e73744/artifacts
+end_time: 1781797288333
+entry_point_name: ''
+experiment_id: '829179002255732555'
+lifecycle_stage: active
+run_id: 11c5587176fd4e01bd6edc4704e73744
+run_name: thundering-boar-181
+run_uuid: 11c5587176fd4e01bd6edc4704e73744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781797278798
+status: 3
+tags: []
+user_id: runner
