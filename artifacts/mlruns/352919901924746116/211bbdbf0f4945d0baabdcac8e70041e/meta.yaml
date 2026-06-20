@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/352919901924746116/211bbdbf0f4945d0baabdcac8e70041e/artifacts
+end_time: 1781965171657
+entry_point_name: ''
+experiment_id: '352919901924746116'
+lifecycle_stage: active
+run_id: 211bbdbf0f4945d0baabdcac8e70041e
+run_name: crawling-bat-495
+run_uuid: 211bbdbf0f4945d0baabdcac8e70041e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781965164886
+status: 3
+tags: []
+user_id: runner
