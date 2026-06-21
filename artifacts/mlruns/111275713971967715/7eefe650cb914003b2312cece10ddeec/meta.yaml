@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/111275713971967715/7eefe650cb914003b2312cece10ddeec/artifacts
+end_time: 1782051922007
+entry_point_name: ''
+experiment_id: '111275713971967715'
+lifecycle_stage: active
+run_id: 7eefe650cb914003b2312cece10ddeec
+run_name: gaudy-sloth-41
+run_uuid: 7eefe650cb914003b2312cece10ddeec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782051914757
+status: 3
+tags: []
+user_id: runner
