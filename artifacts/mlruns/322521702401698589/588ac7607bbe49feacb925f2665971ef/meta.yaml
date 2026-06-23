@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/322521702401698589/588ac7607bbe49feacb925f2665971ef/artifacts
+end_time: 1782227729088
+entry_point_name: ''
+experiment_id: '322521702401698589'
+lifecycle_stage: active
+run_id: 588ac7607bbe49feacb925f2665971ef
+run_name: colorful-squirrel-89
+run_uuid: 588ac7607bbe49feacb925f2665971ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782227723155
+status: 3
+tags: []
+user_id: runner
