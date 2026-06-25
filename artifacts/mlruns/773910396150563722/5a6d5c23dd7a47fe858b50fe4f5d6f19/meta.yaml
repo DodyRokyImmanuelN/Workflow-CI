@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/773910396150563722/5a6d5c23dd7a47fe858b50fe4f5d6f19/artifacts
+end_time: 1782398756408
+entry_point_name: ''
+experiment_id: '773910396150563722'
+lifecycle_stage: active
+run_id: 5a6d5c23dd7a47fe858b50fe4f5d6f19
+run_name: languid-hare-535
+run_uuid: 5a6d5c23dd7a47fe858b50fe4f5d6f19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782398745347
+status: 3
+tags: []
+user_id: runner
