@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/355086442322632914/3b2f1d7bd67041e1a0d17b648b639254/artifacts
+end_time: 1782484698789
+entry_point_name: ''
+experiment_id: '355086442322632914'
+lifecycle_stage: active
+run_id: 3b2f1d7bd67041e1a0d17b648b639254
+run_name: suave-bee-948
+run_uuid: 3b2f1d7bd67041e1a0d17b648b639254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782484691773
+status: 3
+tags: []
+user_id: runner
