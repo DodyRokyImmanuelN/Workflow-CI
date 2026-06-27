@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/626738293197249261/82fdc71d4c574f9195ed1e5b39d21744/artifacts
+end_time: 1782568645597
+entry_point_name: ''
+experiment_id: '626738293197249261'
+lifecycle_stage: active
+run_id: 82fdc71d4c574f9195ed1e5b39d21744
+run_name: abrasive-elk-208
+run_uuid: 82fdc71d4c574f9195ed1e5b39d21744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782568637820
+status: 3
+tags: []
+user_id: runner
