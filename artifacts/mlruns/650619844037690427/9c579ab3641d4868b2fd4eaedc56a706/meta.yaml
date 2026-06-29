@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/650619844037690427/9c579ab3641d4868b2fd4eaedc56a706/artifacts
+end_time: 1782748742856
+entry_point_name: ''
+experiment_id: '650619844037690427'
+lifecycle_stage: active
+run_id: 9c579ab3641d4868b2fd4eaedc56a706
+run_name: whimsical-gnu-186
+run_uuid: 9c579ab3641d4868b2fd4eaedc56a706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782748736354
+status: 3
+tags: []
+user_id: runner
