@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/656420459784147691/bf1c38a1082440748d2f8f56cf55d3e5/artifacts
+end_time: 1782829989647
+entry_point_name: ''
+experiment_id: '656420459784147691'
+lifecycle_stage: active
+run_id: bf1c38a1082440748d2f8f56cf55d3e5
+run_name: orderly-goose-390
+run_uuid: bf1c38a1082440748d2f8f56cf55d3e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782829982323
+status: 3
+tags: []
+user_id: runner
