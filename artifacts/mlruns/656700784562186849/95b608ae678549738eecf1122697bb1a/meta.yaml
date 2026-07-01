@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/656700784562186849/95b608ae678549738eecf1122697bb1a/artifacts
+end_time: 1782917413930
+entry_point_name: ''
+experiment_id: '656700784562186849'
+lifecycle_stage: active
+run_id: 95b608ae678549738eecf1122697bb1a
+run_name: skittish-turtle-183
+run_uuid: 95b608ae678549738eecf1122697bb1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782917408469
+status: 3
+tags: []
+user_id: runner
