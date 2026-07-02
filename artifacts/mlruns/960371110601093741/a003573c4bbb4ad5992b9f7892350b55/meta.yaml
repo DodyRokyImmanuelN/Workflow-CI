@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/960371110601093741/a003573c4bbb4ad5992b9f7892350b55/artifacts
+end_time: 1783001965925
+entry_point_name: ''
+experiment_id: '960371110601093741'
+lifecycle_stage: active
+run_id: a003573c4bbb4ad5992b9f7892350b55
+run_name: powerful-grub-537
+run_uuid: a003573c4bbb4ad5992b9f7892350b55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783001958472
+status: 3
+tags: []
+user_id: runner
