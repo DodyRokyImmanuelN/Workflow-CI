@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/145930208551540701/e42f145ea4fc4d7c925a5d26332ab6fe/artifacts
+end_time: 1783172930428
+entry_point_name: ''
+experiment_id: '145930208551540701'
+lifecycle_stage: active
+run_id: e42f145ea4fc4d7c925a5d26332ab6fe
+run_name: shivering-shrimp-374
+run_uuid: e42f145ea4fc4d7c925a5d26332ab6fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783172922838
+status: 3
+tags: []
+user_id: runner
