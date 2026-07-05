@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/265262606556511433/6d7d52f2802742a19a40aff0c0a38ae1/artifacts
+end_time: 1783259698758
+entry_point_name: ''
+experiment_id: '265262606556511433'
+lifecycle_stage: active
+run_id: 6d7d52f2802742a19a40aff0c0a38ae1
+run_name: gaudy-lynx-178
+run_uuid: 6d7d52f2802742a19a40aff0c0a38ae1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783259691823
+status: 3
+tags: []
+user_id: runner
