@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/866511289928404758/b20acc9506ff406b9b6c86e4ebe83600/artifacts
+end_time: 1783352907479
+entry_point_name: ''
+experiment_id: '866511289928404758'
+lifecycle_stage: active
+run_id: b20acc9506ff406b9b6c86e4ebe83600
+run_name: tasteful-skink-409
+run_uuid: b20acc9506ff406b9b6c86e4ebe83600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783352900820
+status: 3
+tags: []
+user_id: runner
