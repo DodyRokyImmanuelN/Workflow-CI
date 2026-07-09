@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/417658474916272690/467192d410614f76b0da8560c1487e15/artifacts
+end_time: 1783610733669
+entry_point_name: ''
+experiment_id: '417658474916272690'
+lifecycle_stage: active
+run_id: 467192d410614f76b0da8560c1487e15
+run_name: sedate-snipe-901
+run_uuid: 467192d410614f76b0da8560c1487e15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783610726952
+status: 3
+tags: []
+user_id: runner
