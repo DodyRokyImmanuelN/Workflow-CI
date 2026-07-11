@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/905313577145963371/e04499863fa34c2b9cf392f18dc475a7/artifacts
+end_time: 1783777288806
+entry_point_name: ''
+experiment_id: '905313577145963371'
+lifecycle_stage: active
+run_id: e04499863fa34c2b9cf392f18dc475a7
+run_name: nervous-roo-732
+run_uuid: e04499863fa34c2b9cf392f18dc475a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783777281780
+status: 3
+tags: []
+user_id: runner
