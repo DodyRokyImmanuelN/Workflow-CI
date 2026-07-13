@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/886857350224988381/ae20fc5776f24ab3aa59857945c95ece/artifacts
+end_time: 1783954201899
+entry_point_name: ''
+experiment_id: '886857350224988381'
+lifecycle_stage: active
+run_id: ae20fc5776f24ab3aa59857945c95ece
+run_name: bouncy-pug-156
+run_uuid: ae20fc5776f24ab3aa59857945c95ece
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783954195256
+status: 3
+tags: []
+user_id: runner
