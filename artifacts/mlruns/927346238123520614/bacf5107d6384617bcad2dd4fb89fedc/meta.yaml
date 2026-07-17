@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/927346238123520614/bacf5107d6384617bcad2dd4fb89fedc/artifacts
+end_time: 1784296363974
+entry_point_name: ''
+experiment_id: '927346238123520614'
+lifecycle_stage: active
+run_id: bacf5107d6384617bcad2dd4fb89fedc
+run_name: capable-grouse-194
+run_uuid: bacf5107d6384617bcad2dd4fb89fedc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784296357303
+status: 3
+tags: []
+user_id: runner
