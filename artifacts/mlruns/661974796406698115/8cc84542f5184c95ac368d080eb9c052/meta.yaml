@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/661974796406698115/8cc84542f5184c95ac368d080eb9c052/artifacts
+end_time: 1784381783132
+entry_point_name: ''
+experiment_id: '661974796406698115'
+lifecycle_stage: active
+run_id: 8cc84542f5184c95ac368d080eb9c052
+run_name: whimsical-skunk-994
+run_uuid: 8cc84542f5184c95ac368d080eb9c052
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784381776963
+status: 3
+tags: []
+user_id: runner
