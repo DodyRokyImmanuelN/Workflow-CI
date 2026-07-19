@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/854540129418994286/6d7719adc7a247cdb96962edfe8bb14c/artifacts
+end_time: 1784468333179
+entry_point_name: ''
+experiment_id: '854540129418994286'
+lifecycle_stage: active
+run_id: 6d7719adc7a247cdb96962edfe8bb14c
+run_name: agreeable-stork-136
+run_uuid: 6d7719adc7a247cdb96962edfe8bb14c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784468326070
+status: 3
+tags: []
+user_id: runner
