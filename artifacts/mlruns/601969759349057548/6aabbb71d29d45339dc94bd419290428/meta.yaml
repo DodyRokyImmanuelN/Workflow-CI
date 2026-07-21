@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/601969759349057548/6aabbb71d29d45339dc94bd419290428/artifacts
+end_time: 1784642902477
+entry_point_name: ''
+experiment_id: '601969759349057548'
+lifecycle_stage: active
+run_id: 6aabbb71d29d45339dc94bd419290428
+run_name: enthused-dolphin-992
+run_uuid: 6aabbb71d29d45339dc94bd419290428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784642895413
+status: 3
+tags: []
+user_id: runner
