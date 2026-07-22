@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/939461331249174122/0ca5ecb2be554ce7b00f05e533d049ea/artifacts
+end_time: 1784729442186
+entry_point_name: ''
+experiment_id: '939461331249174122'
+lifecycle_stage: active
+run_id: 0ca5ecb2be554ce7b00f05e533d049ea
+run_name: sincere-tern-565
+run_uuid: 0ca5ecb2be554ce7b00f05e533d049ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784729434447
+status: 3
+tags: []
+user_id: runner
