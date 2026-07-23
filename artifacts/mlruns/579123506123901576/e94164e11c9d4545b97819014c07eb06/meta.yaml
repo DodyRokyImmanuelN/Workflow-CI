@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/579123506123901576/e94164e11c9d4545b97819014c07eb06/artifacts
+end_time: 1784816464265
+entry_point_name: ''
+experiment_id: '579123506123901576'
+lifecycle_stage: active
+run_id: e94164e11c9d4545b97819014c07eb06
+run_name: burly-worm-709
+run_uuid: e94164e11c9d4545b97819014c07eb06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784816457531
+status: 3
+tags: []
+user_id: runner
