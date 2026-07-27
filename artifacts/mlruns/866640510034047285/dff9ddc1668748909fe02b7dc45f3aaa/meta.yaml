@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/866640510034047285/dff9ddc1668748909fe02b7dc45f3aaa/artifacts
+end_time: 1785163847193
+entry_point_name: ''
+experiment_id: '866640510034047285'
+lifecycle_stage: active
+run_id: dff9ddc1668748909fe02b7dc45f3aaa
+run_name: redolent-stork-940
+run_uuid: dff9ddc1668748909fe02b7dc45f3aaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785163839404
+status: 3
+tags: []
+user_id: runner
