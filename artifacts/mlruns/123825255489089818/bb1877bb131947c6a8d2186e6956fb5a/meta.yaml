@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/123825255489089818/bb1877bb131947c6a8d2186e6956fb5a/artifacts
+end_time: 1785248708268
+entry_point_name: ''
+experiment_id: '123825255489089818'
+lifecycle_stage: active
+run_id: bb1877bb131947c6a8d2186e6956fb5a
+run_name: judicious-seal-405
+run_uuid: bb1877bb131947c6a8d2186e6956fb5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785248701229
+status: 3
+tags: []
+user_id: runner
