@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/370761958408299072/23067487b8404f1db2d3a2b2c6240a3a/artifacts
+end_time: 1785335030850
+entry_point_name: ''
+experiment_id: '370761958408299072'
+lifecycle_stage: active
+run_id: 23067487b8404f1db2d3a2b2c6240a3a
+run_name: useful-conch-554
+run_uuid: 23067487b8404f1db2d3a2b2c6240a3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785335023594
+status: 3
+tags: []
+user_id: runner
