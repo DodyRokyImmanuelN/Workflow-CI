@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/100149731806162404/c837734cee5f4b0b88edc72b5398cf19/artifacts
+end_time: 1785507825757
+entry_point_name: ''
+experiment_id: '100149731806162404'
+lifecycle_stage: active
+run_id: c837734cee5f4b0b88edc72b5398cf19
+run_name: secretive-shad-495
+run_uuid: c837734cee5f4b0b88edc72b5398cf19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785507818990
+status: 3
+tags: []
+user_id: runner
