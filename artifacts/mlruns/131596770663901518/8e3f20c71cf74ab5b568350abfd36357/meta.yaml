@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/131596770663901518/8e3f20c71cf74ab5b568350abfd36357/artifacts
+end_time: 1785678133818
+entry_point_name: ''
+experiment_id: '131596770663901518'
+lifecycle_stage: active
+run_id: 8e3f20c71cf74ab5b568350abfd36357
+run_name: capricious-hound-106
+run_uuid: 8e3f20c71cf74ab5b568350abfd36357
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785678127324
+status: 3
+tags: []
+user_id: runner
