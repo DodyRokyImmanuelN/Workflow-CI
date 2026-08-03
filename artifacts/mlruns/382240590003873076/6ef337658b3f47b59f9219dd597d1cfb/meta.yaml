@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/382240590003873076/6ef337658b3f47b59f9219dd597d1cfb/artifacts
+end_time: 1785768867222
+entry_point_name: ''
+experiment_id: '382240590003873076'
+lifecycle_stage: active
+run_id: 6ef337658b3f47b59f9219dd597d1cfb
+run_name: gentle-hare-853
+run_uuid: 6ef337658b3f47b59f9219dd597d1cfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785768861291
+status: 3
+tags: []
+user_id: runner
