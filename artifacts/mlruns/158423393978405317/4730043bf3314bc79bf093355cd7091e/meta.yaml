@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/158423393978405317/4730043bf3314bc79bf093355cd7091e/artifacts
+end_time: 1785853835923
+entry_point_name: ''
+experiment_id: '158423393978405317'
+lifecycle_stage: active
+run_id: 4730043bf3314bc79bf093355cd7091e
+run_name: skillful-asp-613
+run_uuid: 4730043bf3314bc79bf093355cd7091e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785853827845
+status: 3
+tags: []
+user_id: runner
