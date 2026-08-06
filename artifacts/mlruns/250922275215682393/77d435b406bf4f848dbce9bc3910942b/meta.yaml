@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/250922275215682393/77d435b406bf4f848dbce9bc3910942b/artifacts
+end_time: 1786026421182
+entry_point_name: ''
+experiment_id: '250922275215682393'
+lifecycle_stage: active
+run_id: 77d435b406bf4f848dbce9bc3910942b
+run_name: receptive-moose-831
+run_uuid: 77d435b406bf4f848dbce9bc3910942b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1786026414686
+status: 3
+tags: []
+user_id: runner
