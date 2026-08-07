@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/462996888509491732/b3789ae6bade4b2585457cf6f8e09d95/artifacts
+end_time: 1786108651673
+entry_point_name: ''
+experiment_id: '462996888509491732'
+lifecycle_stage: active
+run_id: b3789ae6bade4b2585457cf6f8e09d95
+run_name: gifted-crab-365
+run_uuid: b3789ae6bade4b2585457cf6f8e09d95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1786108644687
+status: 3
+tags: []
+user_id: runner
