@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/550369359877145815/780817a6dfcb4b109060127f8e97876b/artifacts
+end_time: 1786194091493
+entry_point_name: ''
+experiment_id: '550369359877145815'
+lifecycle_stage: active
+run_id: 780817a6dfcb4b109060127f8e97876b
+run_name: selective-lark-836
+run_uuid: 780817a6dfcb4b109060127f8e97876b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1786194084057
+status: 3
+tags: []
+user_id: runner
