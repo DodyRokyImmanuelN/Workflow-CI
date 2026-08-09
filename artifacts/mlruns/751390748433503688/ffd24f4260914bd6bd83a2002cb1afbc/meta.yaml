@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/751390748433503688/ffd24f4260914bd6bd83a2002cb1afbc/artifacts
+end_time: 1786280661864
+entry_point_name: ''
+experiment_id: '751390748433503688'
+lifecycle_stage: active
+run_id: ffd24f4260914bd6bd83a2002cb1afbc
+run_name: bemused-stag-684
+run_uuid: ffd24f4260914bd6bd83a2002cb1afbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1786280655203
+status: 3
+tags: []
+user_id: runner
