@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/395889179392743054/7538145465034854a32924e1a978950e/artifacts
+end_time: 1786368179745
+entry_point_name: ''
+experiment_id: '395889179392743054'
+lifecycle_stage: active
+run_id: 7538145465034854a32924e1a978950e
+run_name: unruly-cod-649
+run_uuid: 7538145465034854a32924e1a978950e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1786368174958
+status: 3
+tags: []
+user_id: runner
