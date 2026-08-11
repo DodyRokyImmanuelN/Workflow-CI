@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/704441026032430851/25b998c755a94846b083e079101680e8/artifacts
+end_time: 1786454401125
+entry_point_name: ''
+experiment_id: '704441026032430851'
+lifecycle_stage: active
+run_id: 25b998c755a94846b083e079101680e8
+run_name: sedate-skunk-453
+run_uuid: 25b998c755a94846b083e079101680e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1786454392376
+status: 3
+tags: []
+user_id: runner
