@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/849143745028730440/4463da858cc74c198eadfa713f6bc715/artifacts
+end_time: 1786541012417
+entry_point_name: ''
+experiment_id: '849143745028730440'
+lifecycle_stage: active
+run_id: 4463da858cc74c198eadfa713f6bc715
+run_name: puzzled-boar-288
+run_uuid: 4463da858cc74c198eadfa713f6bc715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1786541006394
+status: 3
+tags: []
+user_id: runner
