@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/444287995751338029/ed67471e5069432cb89cd3625457d50e/artifacts
+end_time: 1786627535884
+entry_point_name: ''
+experiment_id: '444287995751338029'
+lifecycle_stage: active
+run_id: ed67471e5069432cb89cd3625457d50e
+run_name: glamorous-ox-546
+run_uuid: ed67471e5069432cb89cd3625457d50e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1786627528135
+status: 3
+tags: []
+user_id: runner
