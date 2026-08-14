@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/750501288479840731/534896f22f5c438fae3e6e1d8f38ebe7/artifacts
+end_time: 1786713591048
+entry_point_name: ''
+experiment_id: '750501288479840731'
+lifecycle_stage: active
+run_id: 534896f22f5c438fae3e6e1d8f38ebe7
+run_name: melodic-conch-593
+run_uuid: 534896f22f5c438fae3e6e1d8f38ebe7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1786713582211
+status: 3
+tags: []
+user_id: runner
