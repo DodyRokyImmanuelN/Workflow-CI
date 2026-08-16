@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/608407399888999821/2cf6d9b432f3447aa14914735b7decbd/artifacts
+end_time: 1786884691940
+entry_point_name: ''
+experiment_id: '608407399888999821'
+lifecycle_stage: active
+run_id: 2cf6d9b432f3447aa14914735b7decbd
+run_name: carefree-turtle-857
+run_uuid: 2cf6d9b432f3447aa14914735b7decbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1786884684322
+status: 3
+tags: []
+user_id: runner
