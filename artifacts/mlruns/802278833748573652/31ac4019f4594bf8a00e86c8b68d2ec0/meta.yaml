@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/802278833748573652/31ac4019f4594bf8a00e86c8b68d2ec0/artifacts
+end_time: 1787057850028
+entry_point_name: ''
+experiment_id: '802278833748573652'
+lifecycle_stage: active
+run_id: 31ac4019f4594bf8a00e86c8b68d2ec0
+run_name: resilient-mink-29
+run_uuid: 31ac4019f4594bf8a00e86c8b68d2ec0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1787057843169
+status: 3
+tags: []
+user_id: runner
