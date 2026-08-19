@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/802336692903417219/8a98559c210b4626a3135552d0d36af9/artifacts
+end_time: 1787144303762
+entry_point_name: ''
+experiment_id: '802336692903417219'
+lifecycle_stage: active
+run_id: 8a98559c210b4626a3135552d0d36af9
+run_name: hilarious-fawn-933
+run_uuid: 8a98559c210b4626a3135552d0d36af9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1787144297043
+status: 3
+tags: []
+user_id: runner
