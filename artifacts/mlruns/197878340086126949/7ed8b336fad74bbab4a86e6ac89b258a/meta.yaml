@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/197878340086126949/7ed8b336fad74bbab4a86e6ac89b258a/artifacts
+end_time: 1787317194451
+entry_point_name: ''
+experiment_id: '197878340086126949'
+lifecycle_stage: active
+run_id: 7ed8b336fad74bbab4a86e6ac89b258a
+run_name: glamorous-yak-994
+run_uuid: 7ed8b336fad74bbab4a86e6ac89b258a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1787317186763
+status: 3
+tags: []
+user_id: runner
