@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/189912429025676650/f4b474884c0f4cea9a84292509a0941d/artifacts
+end_time: 1787403070930
+entry_point_name: ''
+experiment_id: '189912429025676650'
+lifecycle_stage: active
+run_id: f4b474884c0f4cea9a84292509a0941d
+run_name: aged-eel-144
+run_uuid: f4b474884c0f4cea9a84292509a0941d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1787403063763
+status: 3
+tags: []
+user_id: runner
