@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/551151501726908441/44adba48251044829101801bb6612f6d/artifacts
+end_time: 1787749453067
+entry_point_name: ''
+experiment_id: '551151501726908441'
+lifecycle_stage: active
+run_id: 44adba48251044829101801bb6612f6d
+run_name: painted-elk-68
+run_uuid: 44adba48251044829101801bb6612f6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1787749446423
+status: 3
+tags: []
+user_id: runner
