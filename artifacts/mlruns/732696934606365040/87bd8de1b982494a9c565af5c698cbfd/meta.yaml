@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/732696934606365040/87bd8de1b982494a9c565af5c698cbfd/artifacts
+end_time: 1787868490051
+entry_point_name: ''
+experiment_id: '732696934606365040'
+lifecycle_stage: active
+run_id: 87bd8de1b982494a9c565af5c698cbfd
+run_name: big-seal-676
+run_uuid: 87bd8de1b982494a9c565af5c698cbfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1787868481375
+status: 3
+tags: []
+user_id: runner
