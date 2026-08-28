@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/846495399782648734/7456e8c05de64b0eabbbe2642ec994ce/artifacts
+end_time: 1787954816182
+entry_point_name: ''
+experiment_id: '846495399782648734'
+lifecycle_stage: active
+run_id: 7456e8c05de64b0eabbbe2642ec994ce
+run_name: upbeat-carp-964
+run_uuid: 7456e8c05de64b0eabbbe2642ec994ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1787954810472
+status: 3
+tags: []
+user_id: runner
