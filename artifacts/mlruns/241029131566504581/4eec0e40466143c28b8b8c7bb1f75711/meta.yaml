@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/241029131566504581/4eec0e40466143c28b8b8c7bb1f75711/artifacts
+end_time: 1788107422117
+entry_point_name: ''
+experiment_id: '241029131566504581'
+lifecycle_stage: active
+run_id: 4eec0e40466143c28b8b8c7bb1f75711
+run_name: glamorous-duck-440
+run_uuid: 4eec0e40466143c28b8b8c7bb1f75711
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1788107416878
+status: 3
+tags: []
+user_id: runner
