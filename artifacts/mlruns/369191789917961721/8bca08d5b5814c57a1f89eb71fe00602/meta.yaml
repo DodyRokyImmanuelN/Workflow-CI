@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/369191789917961721/8bca08d5b5814c57a1f89eb71fe00602/artifacts
+end_time: 1788279957650
+entry_point_name: ''
+experiment_id: '369191789917961721'
+lifecycle_stage: active
+run_id: 8bca08d5b5814c57a1f89eb71fe00602
+run_name: rare-worm-489
+run_uuid: 8bca08d5b5814c57a1f89eb71fe00602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1788279950495
+status: 3
+tags: []
+user_id: runner
