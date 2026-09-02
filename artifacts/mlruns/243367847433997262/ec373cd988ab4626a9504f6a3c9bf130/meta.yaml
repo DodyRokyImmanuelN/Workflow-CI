@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/243367847433997262/ec373cd988ab4626a9504f6a3c9bf130/artifacts
+end_time: 1788366246925
+entry_point_name: ''
+experiment_id: '243367847433997262'
+lifecycle_stage: active
+run_id: ec373cd988ab4626a9504f6a3c9bf130
+run_name: upbeat-zebra-58
+run_uuid: ec373cd988ab4626a9504f6a3c9bf130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1788366240412
+status: 3
+tags: []
+user_id: runner
