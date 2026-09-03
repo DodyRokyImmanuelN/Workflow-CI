@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/654970949573323915/472fe8004cc54cc8a2914462e37904b3/artifacts
+end_time: 1788452062127
+entry_point_name: ''
+experiment_id: '654970949573323915'
+lifecycle_stage: active
+run_id: 472fe8004cc54cc8a2914462e37904b3
+run_name: calm-hawk-419
+run_uuid: 472fe8004cc54cc8a2914462e37904b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1788452054941
+status: 3
+tags: []
+user_id: runner
