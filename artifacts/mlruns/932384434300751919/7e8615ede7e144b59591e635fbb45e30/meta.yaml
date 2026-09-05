@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/932384434300751919/7e8615ede7e144b59591e635fbb45e30/artifacts
+end_time: 1788620304468
+entry_point_name: ''
+experiment_id: '932384434300751919'
+lifecycle_stage: active
+run_id: 7e8615ede7e144b59591e635fbb45e30
+run_name: charming-mare-311
+run_uuid: 7e8615ede7e144b59591e635fbb45e30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1788620299002
+status: 3
+tags: []
+user_id: runner
