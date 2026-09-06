@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/811926848088150797/6183ca22ada6486e99fc4b3b7adc76bb/artifacts
+end_time: 1788707932327
+entry_point_name: ''
+experiment_id: '811926848088150797'
+lifecycle_stage: active
+run_id: 6183ca22ada6486e99fc4b3b7adc76bb
+run_name: funny-tern-661
+run_uuid: 6183ca22ada6486e99fc4b3b7adc76bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1788707926808
+status: 3
+tags: []
+user_id: runner
