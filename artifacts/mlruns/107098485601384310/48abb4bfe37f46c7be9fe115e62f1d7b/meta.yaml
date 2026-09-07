@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/107098485601384310/48abb4bfe37f46c7be9fe115e62f1d7b/artifacts
+end_time: 1788802745036
+entry_point_name: ''
+experiment_id: '107098485601384310'
+lifecycle_stage: active
+run_id: 48abb4bfe37f46c7be9fe115e62f1d7b
+run_name: big-carp-934
+run_uuid: 48abb4bfe37f46c7be9fe115e62f1d7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1788802738489
+status: 3
+tags: []
+user_id: runner
