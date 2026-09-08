@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/518338618988102229/7012d5ad71184d0d969ff656ea747189/artifacts
+end_time: 1788884814542
+entry_point_name: ''
+experiment_id: '518338618988102229'
+lifecycle_stage: active
+run_id: 7012d5ad71184d0d969ff656ea747189
+run_name: magnificent-fox-779
+run_uuid: 7012d5ad71184d0d969ff656ea747189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1788884808257
+status: 3
+tags: []
+user_id: runner
