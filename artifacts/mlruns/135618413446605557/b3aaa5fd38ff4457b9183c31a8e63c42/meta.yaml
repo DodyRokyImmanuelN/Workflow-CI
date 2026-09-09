@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/135618413446605557/b3aaa5fd38ff4457b9183c31a8e63c42/artifacts
+end_time: 1788971021135
+entry_point_name: ''
+experiment_id: '135618413446605557'
+lifecycle_stage: active
+run_id: b3aaa5fd38ff4457b9183c31a8e63c42
+run_name: dazzling-bear-140
+run_uuid: b3aaa5fd38ff4457b9183c31a8e63c42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1788971012668
+status: 3
+tags: []
+user_id: runner
