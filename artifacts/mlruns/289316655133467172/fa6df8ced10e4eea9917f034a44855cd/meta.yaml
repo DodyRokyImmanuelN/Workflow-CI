@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/289316655133467172/fa6df8ced10e4eea9917f034a44855cd/artifacts
+end_time: 1789056792346
+entry_point_name: ''
+experiment_id: '289316655133467172'
+lifecycle_stage: active
+run_id: fa6df8ced10e4eea9917f034a44855cd
+run_name: able-lamb-174
+run_uuid: fa6df8ced10e4eea9917f034a44855cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789056787010
+status: 3
+tags: []
+user_id: runner
