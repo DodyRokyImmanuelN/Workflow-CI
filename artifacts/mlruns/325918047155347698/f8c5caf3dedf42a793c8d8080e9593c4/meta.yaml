@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/325918047155347698/f8c5caf3dedf42a793c8d8080e9593c4/artifacts
+end_time: 1789143422178
+entry_point_name: ''
+experiment_id: '325918047155347698'
+lifecycle_stage: active
+run_id: f8c5caf3dedf42a793c8d8080e9593c4
+run_name: charming-shark-846
+run_uuid: f8c5caf3dedf42a793c8d8080e9593c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789143416347
+status: 3
+tags: []
+user_id: runner
