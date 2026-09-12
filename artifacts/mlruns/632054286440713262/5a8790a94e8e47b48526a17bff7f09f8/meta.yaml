@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/632054286440713262/5a8790a94e8e47b48526a17bff7f09f8/artifacts
+end_time: 1789226602847
+entry_point_name: ''
+experiment_id: '632054286440713262'
+lifecycle_stage: active
+run_id: 5a8790a94e8e47b48526a17bff7f09f8
+run_name: indecisive-moth-885
+run_uuid: 5a8790a94e8e47b48526a17bff7f09f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789226594899
+status: 3
+tags: []
+user_id: runner
