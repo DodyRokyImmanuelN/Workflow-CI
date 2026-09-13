@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/814828194702533140/a6ceea82c4d64deb95cba8b17b3c7a01/artifacts
+end_time: 1789315266528
+entry_point_name: ''
+experiment_id: '814828194702533140'
+lifecycle_stage: active
+run_id: a6ceea82c4d64deb95cba8b17b3c7a01
+run_name: carefree-fly-833
+run_uuid: a6ceea82c4d64deb95cba8b17b3c7a01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789315261573
+status: 3
+tags: []
+user_id: runner
