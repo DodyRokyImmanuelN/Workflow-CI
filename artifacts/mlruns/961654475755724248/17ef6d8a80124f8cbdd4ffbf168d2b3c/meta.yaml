@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/961654475755724248/17ef6d8a80124f8cbdd4ffbf168d2b3c/artifacts
+end_time: 1789490669406
+entry_point_name: ''
+experiment_id: '961654475755724248'
+lifecycle_stage: active
+run_id: 17ef6d8a80124f8cbdd4ffbf168d2b3c
+run_name: agreeable-ape-544
+run_uuid: 17ef6d8a80124f8cbdd4ffbf168d2b3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789490663631
+status: 3
+tags: []
+user_id: runner
