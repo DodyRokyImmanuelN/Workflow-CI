@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/670800137037434674/df92518d048b4be1b5866b4cb6067506/artifacts
+end_time: 1789663465070
+entry_point_name: ''
+experiment_id: '670800137037434674'
+lifecycle_stage: active
+run_id: df92518d048b4be1b5866b4cb6067506
+run_name: enthused-mink-203
+run_uuid: df92518d048b4be1b5866b4cb6067506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789663459327
+status: 3
+tags: []
+user_id: runner
