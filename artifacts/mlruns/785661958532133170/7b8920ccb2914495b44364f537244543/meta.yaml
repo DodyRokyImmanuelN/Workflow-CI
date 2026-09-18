@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/785661958532133170/7b8920ccb2914495b44364f537244543/artifacts
+end_time: 1789748015259
+entry_point_name: ''
+experiment_id: '785661958532133170'
+lifecycle_stage: active
+run_id: 7b8920ccb2914495b44364f537244543
+run_name: capable-rat-882
+run_uuid: 7b8920ccb2914495b44364f537244543
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789748008949
+status: 3
+tags: []
+user_id: runner
