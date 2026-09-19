@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/677600042874384339/3e228b57512241d380d196d0dd5f682c/artifacts
+end_time: 1789832689121
+entry_point_name: ''
+experiment_id: '677600042874384339'
+lifecycle_stage: active
+run_id: 3e228b57512241d380d196d0dd5f682c
+run_name: nimble-hog-761
+run_uuid: 3e228b57512241d380d196d0dd5f682c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789832682356
+status: 3
+tags: []
+user_id: runner
