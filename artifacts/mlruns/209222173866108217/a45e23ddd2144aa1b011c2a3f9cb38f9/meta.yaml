@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/209222173866108217/a45e23ddd2144aa1b011c2a3f9cb38f9/artifacts
+end_time: 1790014063649
+entry_point_name: ''
+experiment_id: '209222173866108217'
+lifecycle_stage: active
+run_id: a45e23ddd2144aa1b011c2a3f9cb38f9
+run_name: masked-midge-908
+run_uuid: a45e23ddd2144aa1b011c2a3f9cb38f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790014056849
+status: 3
+tags: []
+user_id: runner
