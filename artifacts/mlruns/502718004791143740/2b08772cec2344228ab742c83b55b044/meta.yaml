@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/502718004791143740/2b08772cec2344228ab742c83b55b044/artifacts
+end_time: 1790095410163
+entry_point_name: ''
+experiment_id: '502718004791143740'
+lifecycle_stage: active
+run_id: 2b08772cec2344228ab742c83b55b044
+run_name: industrious-auk-458
+run_uuid: 2b08772cec2344228ab742c83b55b044
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790095399541
+status: 3
+tags: []
+user_id: runner
