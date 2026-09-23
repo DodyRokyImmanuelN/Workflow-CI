@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/513915814452230883/19faaa109b924d43bcba4a15ce9f2d4c/artifacts
+end_time: 1790181510605
+entry_point_name: ''
+experiment_id: '513915814452230883'
+lifecycle_stage: active
+run_id: 19faaa109b924d43bcba4a15ce9f2d4c
+run_name: indecisive-fish-543
+run_uuid: 19faaa109b924d43bcba4a15ce9f2d4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790181503231
+status: 3
+tags: []
+user_id: runner
