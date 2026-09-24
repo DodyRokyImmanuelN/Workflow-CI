@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/424316613554904125/a3279fd0e4844a5184d929e85433ffcf/artifacts
+end_time: 1790269035570
+entry_point_name: ''
+experiment_id: '424316613554904125'
+lifecycle_stage: active
+run_id: a3279fd0e4844a5184d929e85433ffcf
+run_name: legendary-shad-660
+run_uuid: a3279fd0e4844a5184d929e85433ffcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790269029216
+status: 3
+tags: []
+user_id: runner
