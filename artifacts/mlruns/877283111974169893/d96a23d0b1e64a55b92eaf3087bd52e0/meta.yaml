@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/877283111974169893/d96a23d0b1e64a55b92eaf3087bd52e0/artifacts
+end_time: 1790439114561
+entry_point_name: ''
+experiment_id: '877283111974169893'
+lifecycle_stage: active
+run_id: d96a23d0b1e64a55b92eaf3087bd52e0
+run_name: honorable-smelt-63
+run_uuid: d96a23d0b1e64a55b92eaf3087bd52e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790439106989
+status: 3
+tags: []
+user_id: runner
