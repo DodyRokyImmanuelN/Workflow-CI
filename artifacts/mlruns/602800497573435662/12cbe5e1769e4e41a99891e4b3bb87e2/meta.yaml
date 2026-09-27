@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/602800497573435662/12cbe5e1769e4e41a99891e4b3bb87e2/artifacts
+end_time: 1790527676313
+entry_point_name: ''
+experiment_id: '602800497573435662'
+lifecycle_stage: active
+run_id: 12cbe5e1769e4e41a99891e4b3bb87e2
+run_name: skillful-snipe-54
+run_uuid: 12cbe5e1769e4e41a99891e4b3bb87e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790527669902
+status: 3
+tags: []
+user_id: runner
