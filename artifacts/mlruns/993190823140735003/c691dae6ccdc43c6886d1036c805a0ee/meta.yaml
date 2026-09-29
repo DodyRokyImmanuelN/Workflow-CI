@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/993190823140735003/c691dae6ccdc43c6886d1036c805a0ee/artifacts
+end_time: 1790704715656
+entry_point_name: ''
+experiment_id: '993190823140735003'
+lifecycle_stage: active
+run_id: c691dae6ccdc43c6886d1036c805a0ee
+run_name: bedecked-koi-713
+run_uuid: c691dae6ccdc43c6886d1036c805a0ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790704709948
+status: 3
+tags: []
+user_id: runner
