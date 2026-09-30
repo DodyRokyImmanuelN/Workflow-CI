@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/238645052241246085/9d39a814273944bbb59a3a72c3fcfb4f/artifacts
+end_time: 1790790838683
+entry_point_name: ''
+experiment_id: '238645052241246085'
+lifecycle_stage: active
+run_id: 9d39a814273944bbb59a3a72c3fcfb4f
+run_name: bouncy-midge-774
+run_uuid: 9d39a814273944bbb59a3a72c3fcfb4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790790832130
+status: 3
+tags: []
+user_id: runner
