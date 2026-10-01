@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/142530879795167741/55b9e60586f04a41804a8b7a05d1f8dc/artifacts
+end_time: 1790878776653
+entry_point_name: ''
+experiment_id: '142530879795167741'
+lifecycle_stage: active
+run_id: 55b9e60586f04a41804a8b7a05d1f8dc
+run_name: redolent-ray-528
+run_uuid: 55b9e60586f04a41804a8b7a05d1f8dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790878769444
+status: 3
+tags: []
+user_id: runner
