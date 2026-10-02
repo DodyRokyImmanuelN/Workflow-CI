@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/176843468880171053/6fc5bb4577f4441c9ec6023dbdbdef31/artifacts
+end_time: 1790963105519
+entry_point_name: ''
+experiment_id: '176843468880171053'
+lifecycle_stage: active
+run_id: 6fc5bb4577f4441c9ec6023dbdbdef31
+run_name: dapper-shad-820
+run_uuid: 6fc5bb4577f4441c9ec6023dbdbdef31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790963098122
+status: 3
+tags: []
+user_id: runner
