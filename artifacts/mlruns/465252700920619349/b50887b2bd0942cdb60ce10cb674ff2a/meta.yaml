@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/465252700920619349/b50887b2bd0942cdb60ce10cb674ff2a/artifacts
+end_time: 1791043456246
+entry_point_name: ''
+experiment_id: '465252700920619349'
+lifecycle_stage: active
+run_id: b50887b2bd0942cdb60ce10cb674ff2a
+run_name: salty-ram-61
+run_uuid: b50887b2bd0942cdb60ce10cb674ff2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791043451084
+status: 3
+tags: []
+user_id: runner
