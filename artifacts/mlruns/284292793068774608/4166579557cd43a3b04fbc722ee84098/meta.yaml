@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/284292793068774608/4166579557cd43a3b04fbc722ee84098/artifacts
+end_time: 1791232111363
+entry_point_name: ''
+experiment_id: '284292793068774608'
+lifecycle_stage: active
+run_id: 4166579557cd43a3b04fbc722ee84098
+run_name: crawling-pig-355
+run_uuid: 4166579557cd43a3b04fbc722ee84098
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791232105526
+status: 3
+tags: []
+user_id: runner
