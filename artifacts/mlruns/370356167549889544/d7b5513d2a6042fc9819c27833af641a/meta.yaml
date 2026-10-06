@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/370356167549889544/d7b5513d2a6042fc9819c27833af641a/artifacts
+end_time: 1791310378269
+entry_point_name: ''
+experiment_id: '370356167549889544'
+lifecycle_stage: active
+run_id: d7b5513d2a6042fc9819c27833af641a
+run_name: able-tern-59
+run_uuid: d7b5513d2a6042fc9819c27833af641a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791310369426
+status: 3
+tags: []
+user_id: runner
