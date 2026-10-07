@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/546292118876257753/8fe9c7b8a9ce4886aafa98a31d7eee65/artifacts
+end_time: 1791398753818
+entry_point_name: ''
+experiment_id: '546292118876257753'
+lifecycle_stage: active
+run_id: 8fe9c7b8a9ce4886aafa98a31d7eee65
+run_name: treasured-wolf-407
+run_uuid: 8fe9c7b8a9ce4886aafa98a31d7eee65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791398748369
+status: 3
+tags: []
+user_id: runner
