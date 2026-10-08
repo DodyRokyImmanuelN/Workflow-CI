@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/255342032383002156/50abd768c64f4871bf5ea4e5f4bd1090/artifacts
+end_time: 1791485054076
+entry_point_name: ''
+experiment_id: '255342032383002156'
+lifecycle_stage: active
+run_id: 50abd768c64f4871bf5ea4e5f4bd1090
+run_name: redolent-lark-960
+run_uuid: 50abd768c64f4871bf5ea4e5f4bd1090
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791485048526
+status: 3
+tags: []
+user_id: runner
