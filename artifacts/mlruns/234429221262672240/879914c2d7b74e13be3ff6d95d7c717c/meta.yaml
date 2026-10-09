@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/234429221262672240/879914c2d7b74e13be3ff6d95d7c717c/artifacts
+end_time: 1791569695931
+entry_point_name: ''
+experiment_id: '234429221262672240'
+lifecycle_stage: active
+run_id: 879914c2d7b74e13be3ff6d95d7c717c
+run_name: masked-crow-774
+run_uuid: 879914c2d7b74e13be3ff6d95d7c717c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791569688391
+status: 3
+tags: []
+user_id: runner
