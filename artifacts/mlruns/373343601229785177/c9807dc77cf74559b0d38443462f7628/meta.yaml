@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/373343601229785177/c9807dc77cf74559b0d38443462f7628/artifacts
+end_time: 1791652426827
+entry_point_name: ''
+experiment_id: '373343601229785177'
+lifecycle_stage: active
+run_id: c9807dc77cf74559b0d38443462f7628
+run_name: inquisitive-koi-511
+run_uuid: c9807dc77cf74559b0d38443462f7628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791652420373
+status: 3
+tags: []
+user_id: runner
