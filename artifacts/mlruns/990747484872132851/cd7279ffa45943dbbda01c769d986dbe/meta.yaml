@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/990747484872132851/cd7279ffa45943dbbda01c769d986dbe/artifacts
+end_time: 1791740191165
+entry_point_name: ''
+experiment_id: '990747484872132851'
+lifecycle_stage: active
+run_id: cd7279ffa45943dbbda01c769d986dbe
+run_name: puzzled-slug-289
+run_uuid: cd7279ffa45943dbbda01c769d986dbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791740185942
+status: 3
+tags: []
+user_id: runner
