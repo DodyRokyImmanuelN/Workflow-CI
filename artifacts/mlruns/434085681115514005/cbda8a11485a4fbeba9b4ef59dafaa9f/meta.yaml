@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/434085681115514005/cbda8a11485a4fbeba9b4ef59dafaa9f/artifacts
+end_time: 1791918524662
+entry_point_name: ''
+experiment_id: '434085681115514005'
+lifecycle_stage: active
+run_id: cbda8a11485a4fbeba9b4ef59dafaa9f
+run_name: able-wren-815
+run_uuid: cbda8a11485a4fbeba9b4ef59dafaa9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791918516430
+status: 3
+tags: []
+user_id: runner
