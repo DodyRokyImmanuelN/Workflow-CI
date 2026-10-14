@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/126895524783817452/cd50a68c9fe54c648cc9b5b6aada727c/artifacts
+end_time: 1791997071046
+entry_point_name: ''
+experiment_id: '126895524783817452'
+lifecycle_stage: active
+run_id: cd50a68c9fe54c648cc9b5b6aada727c
+run_name: lyrical-crab-541
+run_uuid: cd50a68c9fe54c648cc9b5b6aada727c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791997064025
+status: 3
+tags: []
+user_id: runner
