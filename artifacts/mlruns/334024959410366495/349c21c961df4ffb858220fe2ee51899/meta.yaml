@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/334024959410366495/349c21c961df4ffb858220fe2ee51899/artifacts
+end_time: 1792082686346
+entry_point_name: ''
+experiment_id: '334024959410366495'
+lifecycle_stage: active
+run_id: 349c21c961df4ffb858220fe2ee51899
+run_name: nosy-vole-734
+run_uuid: 349c21c961df4ffb858220fe2ee51899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1792082678978
+status: 3
+tags: []
+user_id: runner
