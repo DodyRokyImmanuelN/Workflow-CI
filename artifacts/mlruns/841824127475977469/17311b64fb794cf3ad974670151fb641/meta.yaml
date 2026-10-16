@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/841824127475977469/17311b64fb794cf3ad974670151fb641/artifacts
+end_time: 1792168025061
+entry_point_name: ''
+experiment_id: '841824127475977469'
+lifecycle_stage: active
+run_id: 17311b64fb794cf3ad974670151fb641
+run_name: gifted-bat-327
+run_uuid: 17311b64fb794cf3ad974670151fb641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1792168018388
+status: 3
+tags: []
+user_id: runner
