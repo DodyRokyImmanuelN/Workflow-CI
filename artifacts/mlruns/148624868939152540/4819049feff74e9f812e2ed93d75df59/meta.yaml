@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/148624868939152540/4819049feff74e9f812e2ed93d75df59/artifacts
+end_time: 1792250523378
+entry_point_name: ''
+experiment_id: '148624868939152540'
+lifecycle_stage: active
+run_id: 4819049feff74e9f812e2ed93d75df59
+run_name: loud-snipe-408
+run_uuid: 4819049feff74e9f812e2ed93d75df59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1792250517485
+status: 3
+tags: []
+user_id: runner
