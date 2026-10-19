@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/728955864523680467/ff7cd2921f2f4072b78e3938cb5a630d/artifacts
+end_time: 1792435041039
+entry_point_name: ''
+experiment_id: '728955864523680467'
+lifecycle_stage: active
+run_id: ff7cd2921f2f4072b78e3938cb5a630d
+run_name: bustling-colt-323
+run_uuid: ff7cd2921f2f4072b78e3938cb5a630d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1792435033611
+status: 3
+tags: []
+user_id: runner
