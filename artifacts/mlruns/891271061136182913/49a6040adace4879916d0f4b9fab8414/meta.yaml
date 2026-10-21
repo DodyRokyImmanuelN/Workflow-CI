@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/891271061136182913/49a6040adace4879916d0f4b9fab8414/artifacts
+end_time: 1792602028640
+entry_point_name: ''
+experiment_id: '891271061136182913'
+lifecycle_stage: active
+run_id: 49a6040adace4879916d0f4b9fab8414
+run_name: debonair-cub-286
+run_uuid: 49a6040adace4879916d0f4b9fab8414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1792602021884
+status: 3
+tags: []
+user_id: runner
