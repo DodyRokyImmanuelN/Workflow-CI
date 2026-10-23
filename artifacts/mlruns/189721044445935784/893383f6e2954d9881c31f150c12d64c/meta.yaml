@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/189721044445935784/893383f6e2954d9881c31f150c12d64c/artifacts
+end_time: 1792774299897
+entry_point_name: ''
+experiment_id: '189721044445935784'
+lifecycle_stage: active
+run_id: 893383f6e2954d9881c31f150c12d64c
+run_name: worried-mare-301
+run_uuid: 893383f6e2954d9881c31f150c12d64c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1792774293261
+status: 3
+tags: []
+user_id: runner
