@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/459673450243387760/ebca56638d13484a9017f9155c49e21e/artifacts
+end_time: 1793298013134
+entry_point_name: ''
+experiment_id: '459673450243387760'
+lifecycle_stage: active
+run_id: ebca56638d13484a9017f9155c49e21e
+run_name: casual-rook-323
+run_uuid: ebca56638d13484a9017f9155c49e21e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793298006860
+status: 3
+tags: []
+user_id: runner
