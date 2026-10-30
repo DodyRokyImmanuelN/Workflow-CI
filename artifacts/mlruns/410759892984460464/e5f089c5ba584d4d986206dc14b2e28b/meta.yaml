@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/410759892984460464/e5f089c5ba584d4d986206dc14b2e28b/artifacts
+end_time: 1793382908255
+entry_point_name: ''
+experiment_id: '410759892984460464'
+lifecycle_stage: active
+run_id: e5f089c5ba584d4d986206dc14b2e28b
+run_name: stately-squirrel-942
+run_uuid: e5f089c5ba584d4d986206dc14b2e28b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793382901814
+status: 3
+tags: []
+user_id: runner
