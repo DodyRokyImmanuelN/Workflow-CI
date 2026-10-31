@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/836025928486399668/52955c57548d429299043afa1ffe2446/artifacts
+end_time: 1793466447486
+entry_point_name: ''
+experiment_id: '836025928486399668'
+lifecycle_stage: active
+run_id: 52955c57548d429299043afa1ffe2446
+run_name: gifted-zebra-947
+run_uuid: 52955c57548d429299043afa1ffe2446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793466441709
+status: 3
+tags: []
+user_id: runner
