@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/259956464041489871/1ba3624e7fe54f478b911c2f3934003c/artifacts
+end_time: 1793555439528
+entry_point_name: ''
+experiment_id: '259956464041489871'
+lifecycle_stage: active
+run_id: 1ba3624e7fe54f478b911c2f3934003c
+run_name: amazing-snail-58
+run_uuid: 1ba3624e7fe54f478b911c2f3934003c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793555432567
+status: 3
+tags: []
+user_id: runner
