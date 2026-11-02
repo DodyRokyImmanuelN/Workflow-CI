@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/271340903418762581/f464732cc0974cadb2274f195631f218/artifacts
+end_time: 1793655487349
+entry_point_name: ''
+experiment_id: '271340903418762581'
+lifecycle_stage: active
+run_id: f464732cc0974cadb2274f195631f218
+run_name: bouncy-goat-159
+run_uuid: f464732cc0974cadb2274f195631f218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793655480786
+status: 3
+tags: []
+user_id: runner
