@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/730614637538892283/ac3232e6510748adacb35a9a55eb16be/artifacts
+end_time: 1794073257830
+entry_point_name: ''
+experiment_id: '730614637538892283'
+lifecycle_stage: active
+run_id: ac3232e6510748adacb35a9a55eb16be
+run_name: rebellious-yak-696
+run_uuid: ac3232e6510748adacb35a9a55eb16be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1794073251773
+status: 3
+tags: []
+user_id: runner
