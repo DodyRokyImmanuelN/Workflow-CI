@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/367754987514716980/434ac098769c4735b221d845fe408225/artifacts
+end_time: 1794262313991
+entry_point_name: ''
+experiment_id: '367754987514716980'
+lifecycle_stage: active
+run_id: 434ac098769c4735b221d845fe408225
+run_name: mysterious-lynx-889
+run_uuid: 434ac098769c4735b221d845fe408225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1794262308267
+status: 3
+tags: []
+user_id: runner
