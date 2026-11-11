@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/533352059176472926/7f92142d3363400396e22df7f1d0f68f/artifacts
+end_time: 1794425280166
+entry_point_name: ''
+experiment_id: '533352059176472926'
+lifecycle_stage: active
+run_id: 7f92142d3363400396e22df7f1d0f68f
+run_name: classy-cat-681
+run_uuid: 7f92142d3363400396e22df7f1d0f68f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1794425273770
+status: 3
+tags: []
+user_id: runner
