@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/506968352409763778/d38577b50abf442287dba00ee1051462/artifacts
+end_time: 1794512774449
+entry_point_name: ''
+experiment_id: '506968352409763778'
+lifecycle_stage: active
+run_id: d38577b50abf442287dba00ee1051462
+run_name: entertaining-shad-80
+run_uuid: d38577b50abf442287dba00ee1051462
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1794512768638
+status: 3
+tags: []
+user_id: runner
