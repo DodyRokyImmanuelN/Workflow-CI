@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/917966936451868738/b07e4108c7b849ecae3a52f6a4049408/artifacts
+end_time: 1794678720722
+entry_point_name: ''
+experiment_id: '917966936451868738'
+lifecycle_stage: active
+run_id: b07e4108c7b849ecae3a52f6a4049408
+run_name: gaudy-frog-376
+run_uuid: b07e4108c7b849ecae3a52f6a4049408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1794678717342
+status: 3
+tags: []
+user_id: runner
