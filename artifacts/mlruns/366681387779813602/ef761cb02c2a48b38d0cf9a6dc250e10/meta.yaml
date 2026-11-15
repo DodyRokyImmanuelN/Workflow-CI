@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/366681387779813602/ef761cb02c2a48b38d0cf9a6dc250e10/artifacts
+end_time: 1794768140906
+entry_point_name: ''
+experiment_id: '366681387779813602'
+lifecycle_stage: active
+run_id: ef761cb02c2a48b38d0cf9a6dc250e10
+run_name: redolent-dolphin-339
+run_uuid: ef761cb02c2a48b38d0cf9a6dc250e10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1794768137034
+status: 3
+tags: []
+user_id: runner
