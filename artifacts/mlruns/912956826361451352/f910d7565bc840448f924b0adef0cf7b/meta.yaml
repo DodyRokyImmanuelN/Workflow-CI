@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/912956826361451352/f910d7565bc840448f924b0adef0cf7b/artifacts
+end_time: 1794865961371
+entry_point_name: ''
+experiment_id: '912956826361451352'
+lifecycle_stage: active
+run_id: f910d7565bc840448f924b0adef0cf7b
+run_name: suave-gull-316
+run_uuid: f910d7565bc840448f924b0adef0cf7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1794865955565
+status: 3
+tags: []
+user_id: runner
