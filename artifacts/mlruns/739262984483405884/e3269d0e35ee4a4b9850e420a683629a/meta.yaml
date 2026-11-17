@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/739262984483405884/e3269d0e35ee4a4b9850e420a683629a/artifacts
+end_time: 1794948189386
+entry_point_name: ''
+experiment_id: '739262984483405884'
+lifecycle_stage: active
+run_id: e3269d0e35ee4a4b9850e420a683629a
+run_name: clean-ox-274
+run_uuid: e3269d0e35ee4a4b9850e420a683629a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1794948185039
+status: 3
+tags: []
+user_id: runner
