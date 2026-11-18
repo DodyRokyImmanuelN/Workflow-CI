@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/747575192671799359/9ab95c9379fd4a2caa58b7e82c51b421/artifacts
+end_time: 1795033086087
+entry_point_name: ''
+experiment_id: '747575192671799359'
+lifecycle_stage: active
+run_id: 9ab95c9379fd4a2caa58b7e82c51b421
+run_name: agreeable-fish-74
+run_uuid: 9ab95c9379fd4a2caa58b7e82c51b421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1795033081260
+status: 3
+tags: []
+user_id: runner
