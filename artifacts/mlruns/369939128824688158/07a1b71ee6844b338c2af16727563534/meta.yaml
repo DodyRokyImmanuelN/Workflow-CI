@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/369939128824688158/07a1b71ee6844b338c2af16727563534/artifacts
+end_time: 1795119740867
+entry_point_name: ''
+experiment_id: '369939128824688158'
+lifecycle_stage: active
+run_id: 07a1b71ee6844b338c2af16727563534
+run_name: wistful-colt-14
+run_uuid: 07a1b71ee6844b338c2af16727563534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1795119734653
+status: 3
+tags: []
+user_id: runner
