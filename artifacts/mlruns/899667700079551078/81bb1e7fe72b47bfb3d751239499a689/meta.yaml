@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/899667700079551078/81bb1e7fe72b47bfb3d751239499a689/artifacts
+end_time: 1795204404746
+entry_point_name: ''
+experiment_id: '899667700079551078'
+lifecycle_stage: active
+run_id: 81bb1e7fe72b47bfb3d751239499a689
+run_name: wise-stoat-257
+run_uuid: 81bb1e7fe72b47bfb3d751239499a689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1795204400488
+status: 3
+tags: []
+user_id: runner
