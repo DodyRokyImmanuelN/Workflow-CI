@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/947832470644036294/fcf3128eef6c445cad3eecdf23bc12e2/artifacts
+end_time: 1795287547746
+entry_point_name: ''
+experiment_id: '947832470644036294'
+lifecycle_stage: active
+run_id: fcf3128eef6c445cad3eecdf23bc12e2
+run_name: vaunted-auk-50
+run_uuid: fcf3128eef6c445cad3eecdf23bc12e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1795287542339
+status: 3
+tags: []
+user_id: runner
