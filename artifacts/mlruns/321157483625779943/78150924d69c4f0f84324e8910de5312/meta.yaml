@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/321157483625779943/78150924d69c4f0f84324e8910de5312/artifacts
+end_time: 1795375303029
+entry_point_name: ''
+experiment_id: '321157483625779943'
+lifecycle_stage: active
+run_id: 78150924d69c4f0f84324e8910de5312
+run_name: intelligent-rook-234
+run_uuid: 78150924d69c4f0f84324e8910de5312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1795375296800
+status: 3
+tags: []
+user_id: runner
