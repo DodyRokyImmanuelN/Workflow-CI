@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/743465348377793844/5c26f79a20d64d4b8c05bbb0190cb7bd/artifacts
+end_time: 1795477346825
+entry_point_name: ''
+experiment_id: '743465348377793844'
+lifecycle_stage: active
+run_id: 5c26f79a20d64d4b8c05bbb0190cb7bd
+run_name: carefree-cow-14
+run_uuid: 5c26f79a20d64d4b8c05bbb0190cb7bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1795477341120
+status: 3
+tags: []
+user_id: runner
