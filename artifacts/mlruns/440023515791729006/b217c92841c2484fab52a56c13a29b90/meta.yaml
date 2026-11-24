@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/440023515791729006/b217c92841c2484fab52a56c13a29b90/artifacts
+end_time: 1795558424829
+entry_point_name: ''
+experiment_id: '440023515791729006'
+lifecycle_stage: active
+run_id: b217c92841c2484fab52a56c13a29b90
+run_name: unruly-smelt-364
+run_uuid: b217c92841c2484fab52a56c13a29b90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1795558418795
+status: 3
+tags: []
+user_id: runner
