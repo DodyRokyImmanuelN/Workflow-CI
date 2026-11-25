@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/686581165813316629/29412b26cc8a4781a00f0f1c80613a64/artifacts
+end_time: 1795642186134
+entry_point_name: ''
+experiment_id: '686581165813316629'
+lifecycle_stage: active
+run_id: 29412b26cc8a4781a00f0f1c80613a64
+run_name: bald-moose-606
+run_uuid: 29412b26cc8a4781a00f0f1c80613a64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1795642182454
+status: 3
+tags: []
+user_id: runner
