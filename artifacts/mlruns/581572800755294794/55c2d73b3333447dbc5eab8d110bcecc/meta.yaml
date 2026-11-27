@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/581572800755294794/55c2d73b3333447dbc5eab8d110bcecc/artifacts
+end_time: 1795813149062
+entry_point_name: ''
+experiment_id: '581572800755294794'
+lifecycle_stage: active
+run_id: 55c2d73b3333447dbc5eab8d110bcecc
+run_name: victorious-hog-650
+run_uuid: 55c2d73b3333447dbc5eab8d110bcecc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1795813143253
+status: 3
+tags: []
+user_id: runner
